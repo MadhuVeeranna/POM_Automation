@@ -1,0 +1,1074 @@
+2018-01-30 14:22:06 INFO  HomePage:88 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-30 14:22:06 INFO  HomePage:95 - Switched to signup window and object is:-4294967297
+2018-01-30 14:22:07 INFO  HomePage:99 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: firstname]
+2018-01-30 14:22:07 INFO  HomePage:103 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: lastname]
+2018-01-30 14:22:07 INFO  HomePage:107 - Entered data to email field:-madhuveeranna93@gmail.com and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: email]
+2018-01-30 14:22:08 INFO  HomePage:111 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: pwd]
+2018-01-30 14:22:08 INFO  HomePage:115 - Entered data to mobile number field:-9035832317 and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: mobile]
+2018-01-30 14:22:09 INFO  HomePage:117 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: female]
+2018-01-30 14:22:09 INFO  HomePage:119 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: male]
+2018-01-30 14:22:09 INFO  HomePage:121 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (9d5ae75e-ccf0-406f-9722-6ed7babbb97b)] -> id: btn-signup]
+2018-01-30 14:22:09 INFO  HomePage:125 - Registration message isThank You Please help us validate your account by clicking the validation link sent to madhuveeranna93@gmail.com
+2018-01-31 11:36:00 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 11:36:14 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 11:36:14 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: firstname]
+2018-01-31 11:36:14 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: lastname]
+2018-01-31 11:36:15 INFO  HomePage:106 - Entered data to email field:-madhuveeranna931@gmail.com and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: email]
+2018-01-31 11:36:15 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: pwd]
+2018-01-31 11:36:15 INFO  HomePage:114 - Entered data to mobile number field:-9035832317 and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: mobile]
+2018-01-31 11:36:15 INFO  HomePage:116 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: female]
+2018-01-31 11:36:16 INFO  HomePage:118 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: male]
+2018-01-31 11:36:16 INFO  HomePage:120 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (0f3508db-980e-4367-a9f6-d11a3efac130)] -> id: btn-signup]
+2018-01-31 11:39:40 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 11:39:40 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 11:39:40 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: firstname]
+2018-01-31 11:39:40 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: lastname]
+2018-01-31 11:39:41 INFO  HomePage:106 - Entered data to email field:-madhuvee@gmail.com and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: email]
+2018-01-31 11:39:41 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: pwd]
+2018-01-31 11:39:41 INFO  HomePage:114 - Entered data to mobile number field:-9035832319 and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: mobile]
+2018-01-31 11:39:41 INFO  HomePage:116 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: female]
+2018-01-31 11:39:42 INFO  HomePage:118 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: male]
+2018-01-31 11:39:43 INFO  HomePage:120 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (2039cf6c-b2c4-4ea9-89de-79990ef7915d)] -> id: btn-signup]
+2018-01-31 11:44:37 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 11:44:37 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 11:44:37 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: firstname]
+2018-01-31 11:44:38 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: lastname]
+2018-01-31 11:44:38 INFO  HomePage:106 - Entered data to email field:-madhuvee@gmail.com and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: email]
+2018-01-31 11:44:38 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: pwd]
+2018-01-31 11:44:38 INFO  HomePage:114 - Entered data to mobile number field:-9035832319 and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: mobile]
+2018-01-31 11:44:39 INFO  HomePage:116 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: female]
+2018-01-31 11:44:39 INFO  HomePage:118 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: male]
+2018-01-31 11:44:39 INFO  HomePage:120 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (ec96b3c5-1797-4603-88d9-12a25d5456ed)] -> id: btn-signup]
+2018-01-31 11:45:22 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 11:45:22 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 11:45:22 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: firstname]
+2018-01-31 11:45:23 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: lastname]
+2018-01-31 11:45:23 INFO  HomePage:106 - Entered data to email field:-madhuve12e@gmail.com and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: email]
+2018-01-31 11:45:23 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: pwd]
+2018-01-31 11:45:24 INFO  HomePage:114 - Entered data to mobile number field:-9035122319 and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: mobile]
+2018-01-31 11:45:24 INFO  HomePage:116 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: female]
+2018-01-31 11:45:24 INFO  HomePage:118 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: male]
+2018-01-31 11:45:25 INFO  HomePage:120 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (5d4e348d-1f81-4740-81aa-d2e6f44b29ff)] -> id: btn-signup]
+2018-01-31 11:53:40 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 11:53:41 INFO  HomePage:94 - Switched to signup window and object is:-CDwindow-(C68843B3CCBB9BD91D1EA795C8361DDD)
+2018-01-31 11:53:41 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: firstname]
+2018-01-31 11:53:41 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: lastname]
+2018-01-31 11:53:41 INFO  HomePage:106 - Entered data to email field:-madhuve12e@gmail.com and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: email]
+2018-01-31 11:53:42 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: pwd]
+2018-01-31 11:53:42 INFO  HomePage:114 - Entered data to mobile number field:-9035122319 and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: mobile]
+2018-01-31 11:53:42 INFO  HomePage:116 - Selected female option and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: female]
+2018-01-31 11:53:42 INFO  HomePage:118 - Selected male option and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: male]
+2018-01-31 11:53:42 INFO  HomePage:120 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (4f73b48ada3830276c36f4e8f146a15a)] -> id: btn-signup]
+2018-01-31 12:15:04 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (f90f92bd-35e7-4bec-8717-04523855af64)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 12:15:04 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 12:15:04 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (f90f92bd-35e7-4bec-8717-04523855af64)] -> id: firstname]
+2018-01-31 12:15:38 INFO  HomePage:87 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> xpath: //a[contains(text(),'Signup')]]
+2018-01-31 12:15:38 INFO  HomePage:94 - Switched to signup window and object is:-4294967297
+2018-01-31 12:15:38 INFO  HomePage:98 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: firstname]
+2018-01-31 12:15:39 INFO  HomePage:102 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: lastname]
+2018-01-31 12:15:39 INFO  HomePage:106 - Entered data to email field:-madhuv12e12e@gmail.com and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: email]
+2018-01-31 12:15:39 INFO  HomePage:110 - Entered data to password field:-M@dhu9093 and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: pwd]
+2018-01-31 12:15:40 INFO  HomePage:114 - Entered data to mobile number field:-9245122319 and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: mobile]
+2018-01-31 12:15:40 INFO  HomePage:116 - Selected female option and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: female]
+2018-01-31 12:15:40 INFO  HomePage:118 - Selected male option and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: male]
+2018-01-31 12:15:41 INFO  HomePage:120 - Clicked on signUp button and object is:-[[FirefoxDriver: firefox on XP (d0afdf96-f3b8-47b3-9f44-7da8c7a9b4e5)] -> id: btn-signup]
+2018-02-07 19:34:23 INFO  TC003_VerifyLoginWithDiffferentRecords:28 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-07 19:53:09 INFO  TC003_VerifyLoginWithDiffferentRecords:28 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-07 19:54:05 INFO  TC001_VerifyLoginWithInvalidCredentails:25 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-07 19:54:09 INFO  HomePage:71 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (4829c0ad-7750-4613-8546-2edaf65dee4d)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-07 19:54:09 INFO  HomePage:73 - Entered email address is:-test@gmail.com and object is [[FirefoxDriver: firefox on XP (4829c0ad-7750-4613-8546-2edaf65dee4d)] -> id: email]
+2018-02-07 19:54:09 INFO  HomePage:75 - Entered password is:-password and object is password
+2018-02-07 19:54:11 INFO  HomePage:77 - Clicked on submit button and object is [[FirefoxDriver: firefox on XP (4829c0ad-7750-4613-8546-2edaf65dee4d)] -> id: SubmitLogin]
+2018-02-07 19:54:12 INFO  HomePage:82 - Error message is Authentication failed.
+2018-02-07 19:54:12 INFO  TC001_VerifyLoginWithInvalidCredentails:29 -  ======== Finished VerifyLoginWithInvalidCredentails ========
+2018-02-07 19:54:58 INFO  TC001_VerifyLoginWithInvalidCredentails:25 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-07 19:55:01 INFO  HomePage:71 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (3b05de92-81c6-4c34-956e-ceb8ff87625f)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-07 19:55:01 INFO  HomePage:73 - Entered email address is:-test@gmail.com and object is [[FirefoxDriver: firefox on XP (3b05de92-81c6-4c34-956e-ceb8ff87625f)] -> id: email]
+2018-02-07 19:55:02 INFO  HomePage:75 - Entered password is:-password and object is password
+2018-02-07 19:55:03 INFO  HomePage:77 - Clicked on submit button and object is [[FirefoxDriver: firefox on XP (3b05de92-81c6-4c34-956e-ceb8ff87625f)] -> id: SubmitLogin]
+2018-02-07 19:55:03 INFO  HomePage:82 - Error message is Authentication failed.
+2018-02-07 19:55:03 INFO  TC001_VerifyLoginWithInvalidCredentails:29 -  ======== Finished VerifyLoginWithInvalidCredentails ========
+2018-02-07 19:56:07 INFO  TC002_VerifyJabongRegistration:31 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-02-07 19:56:08 INFO  HomePage:89 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (d1a4eac2-2a87-494e-817d-b9c12b93a859)] -> xpath: //a[contains(text(),'Signup')]]
+2018-02-07 19:56:08 INFO  HomePage:96 - Switched to signup window and object is:-4294967297
+2018-02-07 19:56:09 INFO  HomePage:100 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (d1a4eac2-2a87-494e-817d-b9c12b93a859)] -> id: firstname]
+2018-02-07 19:56:09 INFO  HomePage:104 - Entered data to lastName field:-lastName and object is:-[[FirefoxDriver: firefox on XP (d1a4eac2-2a87-494e-817d-b9c12b93a859)] -> id: lastname]
+2018-02-07 19:56:09 INFO  HomePage:108 - Entered data to email field:-madhuvee112e@gmail.com and object is:-[[FirefoxDriver: firefox on XP (d1a4eac2-2a87-494e-817d-b9c12b93a859)] -> id: email]
+2018-02-08 16:41:18 INFO  TC001_VerifyLoginWithInvalidCredentails:26 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-08 17:01:35 INFO  TC001_VerifyLoginWithInvalidCredentails:30 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-08 17:01:38 INFO  AutomationPractiseLoginPage:37 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (b2d30e22-b11f-4f84-81c9-52b561bde9c8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-08 17:01:38 INFO  AutomationPractiseLoginPage:39 - Entered email address is:-test@gmail.com and object is [[FirefoxDriver: firefox on XP (b2d30e22-b11f-4f84-81c9-52b561bde9c8)] -> id: email]
+2018-02-08 17:01:38 INFO  AutomationPractiseLoginPage:41 - Entered password is:-password123 and object is password123
+2018-02-08 17:01:40 INFO  AutomationPractiseLoginPage:43 - Clicked on submit button and object is [[FirefoxDriver: firefox on XP (b2d30e22-b11f-4f84-81c9-52b561bde9c8)] -> id: SubmitLogin]
+2018-02-08 17:01:40 INFO  AutomationPractiseLoginPage:47 - Error message is Authentication failed.
+2018-02-08 17:01:40 INFO  TC001_VerifyLoginWithInvalidCredentails:34 -  ======== Finished VerifyLoginWithInvalidCredentails ========
+2018-02-08 18:07:11 INFO  TC002_VerifyJabongRegistration:31 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-02-08 18:07:11 INFO  JabongRegistrationPage:53 - Clicked on sign-up link and object is:-[[FirefoxDriver: firefox on XP (a53f5dd3-d86a-47a3-af13-b3db99ef706d)] -> xpath: //a[contains(text(),'Signup')]]
+2018-02-08 18:07:12 INFO  JabongRegistrationPage:60 - Switched to signup window and object is:-4294967297
+2018-02-08 18:07:12 INFO  JabongRegistrationPage:64 - Entered data to firstName field:-Madhu and object is:-[[FirefoxDriver: firefox on XP (a53f5dd3-d86a-47a3-af13-b3db99ef706d)] -> id: firstname]
+2018-02-09 12:37:44 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 12:37:47 INFO  AutomationPractiseRegistrationPage:108 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (1ad17c08-b55f-4521-bd69-83edf1cdd21e)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 12:37:48 INFO  TestBase:66 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (1ad17c08-b55f-4521-bd69-83edf1cdd21e)] -> xpath: .//input[@value='Create an account']]
+2018-02-09 12:41:49 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 12:41:52 INFO  AutomationPractiseRegistrationPage:108 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (d9f62521-3c8b-4de5-a3e1-af2d2f14e566)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 12:41:52 INFO  AutomationPractiseRegistrationPage:112 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (d9f62521-3c8b-4de5-a3e1-af2d2f14e566)] -> id: email_create]
+2018-02-09 12:41:52 INFO  AutomationPractiseRegistrationPage:114 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (d9f62521-3c8b-4de5-a3e1-af2d2f14e566)] -> xpath: .//input[@value='Create an account']]
+2018-02-09 12:42:41 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 12:42:43 INFO  AutomationPractiseRegistrationPage:108 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (bcd4de12-01f2-485c-9d87-1c6ad44b4265)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 12:42:43 INFO  AutomationPractiseRegistrationPage:112 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (bcd4de12-01f2-485c-9d87-1c6ad44b4265)] -> id: email_create]
+2018-02-09 12:42:43 INFO  AutomationPractiseRegistrationPage:114 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (bcd4de12-01f2-485c-9d87-1c6ad44b4265)] -> xpath: .//input[@value='Create an account']]
+2018-02-09 12:43:51 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 12:43:54 INFO  AutomationPractiseRegistrationPage:108 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (c1d78926-1327-4b39-980a-174eda0afdc6)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 12:43:54 INFO  AutomationPractiseRegistrationPage:112 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (c1d78926-1327-4b39-980a-174eda0afdc6)] -> id: email_create]
+2018-02-09 12:43:54 INFO  AutomationPractiseRegistrationPage:114 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (c1d78926-1327-4b39-980a-174eda0afdc6)] -> xpath: .//input[@value='Create an account']]
+2018-02-09 12:47:19 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 12:47:22 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (30656284-b418-4200-8d23-21b6681dcbb1)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:13:45 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:13:48 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (ee1f7e49-57e4-4619-a00d-90dcdc96d47a)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:13:48 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (ee1f7e49-57e4-4619-a00d-90dcdc96d47a)] -> id: email_create]
+2018-02-09 14:13:49 INFO  AutomationPractiseRegistrationPage:115 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (ee1f7e49-57e4-4619-a00d-90dcdc96d47a)] -> id: SubmitCreate]
+2018-02-09 14:14:49 INFO  AutomationPractiseRegistrationPage:118 - Entered first name is:- Madhu and object is Proxy element for: DefaultElementLocator 'By.id: customer_firstname'
+2018-02-09 14:19:13 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:19:16 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (ef8a102c-f656-4f95-a72a-a67592231af1)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:19:16 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (ef8a102c-f656-4f95-a72a-a67592231af1)] -> id: email_create]
+2018-02-09 14:19:16 INFO  AutomationPractiseRegistrationPage:115 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (ef8a102c-f656-4f95-a72a-a67592231af1)] -> id: SubmitCreate]
+2018-02-09 14:19:49 INFO  AutomationPractiseRegistrationPage:119 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (ef8a102c-f656-4f95-a72a-a67592231af1)] -> id: customer_firstname]
+2018-02-09 14:21:06 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:21:08 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (aba8ee72-172d-42ee-86b6-746a68a769c4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:21:08 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (aba8ee72-172d-42ee-86b6-746a68a769c4)] -> id: email_create]
+2018-02-09 14:21:08 INFO  AutomationPractiseRegistrationPage:115 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (aba8ee72-172d-42ee-86b6-746a68a769c4)] -> id: SubmitCreate]
+2018-02-09 14:21:13 INFO  AutomationPractiseRegistrationPage:119 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (aba8ee72-172d-42ee-86b6-746a68a769c4)] -> id: customer_firstname]
+2018-02-09 14:37:45 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:37:48 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (73d502f7-7552-42f8-a502-ebdb443fb7ce)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:37:54 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (73d502f7-7552-42f8-a502-ebdb443fb7ce)] -> id: email_create]
+2018-02-09 14:37:55 INFO  AutomationPractiseRegistrationPage:118 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (73d502f7-7552-42f8-a502-ebdb443fb7ce)] -> id: SubmitCreate]
+2018-02-09 14:38:00 INFO  AutomationPractiseRegistrationPage:124 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (73d502f7-7552-42f8-a502-ebdb443fb7ce)] -> id: customer_firstname]
+2018-02-09 14:40:24 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:40:26 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (1cff3c46-b154-4566-9d32-825624fcccbd)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:40:26 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (1cff3c46-b154-4566-9d32-825624fcccbd)] -> id: email_create]
+2018-02-09 14:40:27 INFO  AutomationPractiseRegistrationPage:118 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (1cff3c46-b154-4566-9d32-825624fcccbd)] -> id: SubmitCreate]
+2018-02-09 14:53:00 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:53:03 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (4e5146e2-0cdd-45a1-a6df-d8d8070f4a49)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:53:08 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (4e5146e2-0cdd-45a1-a6df-d8d8070f4a49)] -> id: email_create]
+2018-02-09 14:53:08 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (4e5146e2-0cdd-45a1-a6df-d8d8070f4a49)] -> id: SubmitCreate]
+2018-02-09 14:53:25 INFO  AutomationPractiseRegistrationPage:121 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (4e5146e2-0cdd-45a1-a6df-d8d8070f4a49)] -> id: customer_firstname]
+2018-02-09 14:54:49 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 14:54:51 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (8f561696-15b4-4c8c-8ee7-9a2f97e6a980)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 14:54:51 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (8f561696-15b4-4c8c-8ee7-9a2f97e6a980)] -> id: email_create]
+2018-02-09 14:54:57 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (8f561696-15b4-4c8c-8ee7-9a2f97e6a980)] -> id: SubmitCreate]
+2018-02-09 14:55:02 INFO  AutomationPractiseRegistrationPage:121 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (8f561696-15b4-4c8c-8ee7-9a2f97e6a980)] -> id: customer_firstname]
+2018-02-09 15:00:56 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:00:58 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (0eacc17e-0b05-497d-a0a0-e64bfe8ddee0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:00:59 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (0eacc17e-0b05-497d-a0a0-e64bfe8ddee0)] -> id: email_create]
+2018-02-09 15:01:04 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (0eacc17e-0b05-497d-a0a0-e64bfe8ddee0)] -> id: SubmitCreate]
+2018-02-09 15:01:33 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:01:41 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (c5ee4cfa-36cf-45b3-9fd6-71c6633dfa38)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:01:49 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (c5ee4cfa-36cf-45b3-9fd6-71c6633dfa38)] -> id: email_create]
+2018-02-09 15:01:54 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (c5ee4cfa-36cf-45b3-9fd6-71c6633dfa38)] -> id: SubmitCreate]
+2018-02-09 15:02:00 INFO  AutomationPractiseRegistrationPage:121 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (c5ee4cfa-36cf-45b3-9fd6-71c6633dfa38)] -> id: customer_firstname]
+2018-02-09 15:06:24 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:06:26 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (7c527ce2-8ba6-41ae-a9e2-1072fc65d99c)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:06:27 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (7c527ce2-8ba6-41ae-a9e2-1072fc65d99c)] -> id: email_create]
+2018-02-09 15:06:32 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (7c527ce2-8ba6-41ae-a9e2-1072fc65d99c)] -> id: SubmitCreate]
+2018-02-09 15:06:37 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:07:30 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:07:33 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (a97f7198-3ada-4337-b75a-228a28bf7e41)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:07:33 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (a97f7198-3ada-4337-b75a-228a28bf7e41)] -> id: email_create]
+2018-02-09 15:07:39 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (a97f7198-3ada-4337-b75a-228a28bf7e41)] -> id: SubmitCreate]
+2018-02-09 15:07:44 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:08:05 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:08:08 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (72af8607-6fcc-4c7d-a390-b84fcd0293eb)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:08:08 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (72af8607-6fcc-4c7d-a390-b84fcd0293eb)] -> id: email_create]
+2018-02-09 15:08:13 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (72af8607-6fcc-4c7d-a390-b84fcd0293eb)] -> id: SubmitCreate]
+2018-02-09 15:08:18 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:08:57 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:08:59 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (9959295e-e5bf-400c-9997-49351a479b42)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:09:00 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (9959295e-e5bf-400c-9997-49351a479b42)] -> id: email_create]
+2018-02-09 15:09:05 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (9959295e-e5bf-400c-9997-49351a479b42)] -> id: SubmitCreate]
+2018-02-09 15:09:20 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:10:03 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:10:06 INFO  AutomationPractiseRegistrationPage:110 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (d11b4378-4cbd-4488-83f4-dc36f214aebe)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:10:06 INFO  AutomationPractiseRegistrationPage:113 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (d11b4378-4cbd-4488-83f4-dc36f214aebe)] -> id: email_create]
+2018-02-09 15:10:11 INFO  AutomationPractiseRegistrationPage:116 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (d11b4378-4cbd-4488-83f4-dc36f214aebe)] -> id: SubmitCreate]
+2018-02-09 15:24:21 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:24:23 INFO  AutomationPractiseRegistrationPage:112 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (00f113fa-4f62-475a-96c7-53883ae442ba)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:24:24 INFO  AutomationPractiseRegistrationPage:115 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (00f113fa-4f62-475a-96c7-53883ae442ba)] -> id: email_create]
+2018-02-09 15:24:29 INFO  AutomationPractiseRegistrationPage:121 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (00f113fa-4f62-475a-96c7-53883ae442ba)] -> id: SubmitCreate]
+2018-02-09 15:26:27 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:26:30 INFO  AutomationPractiseRegistrationPage:112 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (fb095a31-45ea-4ba2-a449-d4058d197c50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:26:30 INFO  AutomationPractiseRegistrationPage:115 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (fb095a31-45ea-4ba2-a449-d4058d197c50)] -> id: email_create]
+2018-02-09 15:26:35 INFO  AutomationPractiseRegistrationPage:123 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (fb095a31-45ea-4ba2-a449-d4058d197c50)] -> id: SubmitCreate]
+2018-02-09 15:26:51 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:27:19 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:27:22 INFO  AutomationPractiseRegistrationPage:112 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (161d5154-9001-4f3d-9c30-44a3efb9b579)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:27:22 INFO  AutomationPractiseRegistrationPage:115 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (161d5154-9001-4f3d-9c30-44a3efb9b579)] -> id: email_create]
+2018-02-09 15:28:51 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:28:53 INFO  AutomationPractiseRegistrationPage:112 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (4b593cdb-0235-4942-89a3-d9ccfeab8f1a)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:28:53 INFO  AutomationPractiseRegistrationPage:115 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (4b593cdb-0235-4942-89a3-d9ccfeab8f1a)] -> id: email_create]
+2018-02-09 15:28:59 INFO  AutomationPractiseRegistrationPage:125 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (4b593cdb-0235-4942-89a3-d9ccfeab8f1a)] -> id: SubmitCreate]
+2018-02-09 15:43:04 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:43:06 INFO  AutomationPractiseRegistrationPage:114 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (ced8ef9e-22d1-4d76-8527-5ccc694dcecd)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:43:07 INFO  AutomationPractiseRegistrationPage:119 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (ced8ef9e-22d1-4d76-8527-5ccc694dcecd)] -> id: email_create]
+2018-02-09 15:43:07 INFO  AutomationPractiseRegistrationPage:129 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (ced8ef9e-22d1-4d76-8527-5ccc694dcecd)] -> id: SubmitCreate]
+2018-02-09 15:43:23 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 15:59:21 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 15:59:24 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (753afe0b-4caf-4f04-9677-65d17bbbd092)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 15:59:24 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (753afe0b-4caf-4f04-9677-65d17bbbd092)] -> id: email_create]
+2018-02-09 15:59:25 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (753afe0b-4caf-4f04-9677-65d17bbbd092)] -> id: SubmitCreate]
+2018-02-09 15:59:27 INFO  AutomationPractiseRegistrationPage:135 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (753afe0b-4caf-4f04-9677-65d17bbbd092)] -> id: customer_firstname]
+2018-02-09 16:00:32 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:00:35 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (8a0625ed-956f-42c3-b8cd-0fc80761ca32)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:00:35 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (8a0625ed-956f-42c3-b8cd-0fc80761ca32)] -> id: email_create]
+2018-02-09 16:00:36 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (8a0625ed-956f-42c3-b8cd-0fc80761ca32)] -> id: SubmitCreate]
+2018-02-09 16:00:38 INFO  AutomationPractiseRegistrationPage:135 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (8a0625ed-956f-42c3-b8cd-0fc80761ca32)] -> id: customer_firstname]
+2018-02-09 16:00:43 INFO  TestBase:59 - Waiting for element to be visible[[FirefoxDriver: firefox on XP (8a0625ed-956f-42c3-b8cd-0fc80761ca32)] -> xpath: //a[contains(text(),'Sign out')]]
+2018-02-09 16:03:04 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:03:06 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (13f9bc6e-0b5a-4ab0-a84a-0d568615b7a7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:03:07 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveeranna93@gmail.com and object is [[FirefoxDriver: firefox on XP (13f9bc6e-0b5a-4ab0-a84a-0d568615b7a7)] -> id: email_create]
+2018-02-09 16:03:07 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (13f9bc6e-0b5a-4ab0-a84a-0d568615b7a7)] -> id: SubmitCreate]
+2018-02-09 16:03:50 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:03:52 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (7d9262b8-b13e-4201-8637-824b8bb94bb9)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:03:53 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveerannaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (7d9262b8-b13e-4201-8637-824b8bb94bb9)] -> id: email_create]
+2018-02-09 16:03:53 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (7d9262b8-b13e-4201-8637-824b8bb94bb9)] -> id: SubmitCreate]
+2018-02-09 16:03:55 INFO  AutomationPractiseRegistrationPage:135 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (7d9262b8-b13e-4201-8637-824b8bb94bb9)] -> id: customer_firstname]
+2018-02-09 16:04:00 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 16:05:40 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:05:42 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (e0513183-7438-4991-aa58-7503dc40bd51)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:05:43 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveerannaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (e0513183-7438-4991-aa58-7503dc40bd51)] -> id: email_create]
+2018-02-09 16:05:43 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (e0513183-7438-4991-aa58-7503dc40bd51)] -> id: SubmitCreate]
+2018-02-09 16:05:45 INFO  AutomationPractiseRegistrationPage:135 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (e0513183-7438-4991-aa58-7503dc40bd51)] -> id: customer_firstname]
+2018-02-09 16:06:51 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:06:53 INFO  AutomationPractiseRegistrationPage:115 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (9d3027b7-d62b-4b30-9ea1-173d48fad7bd)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:06:54 INFO  AutomationPractiseRegistrationPage:120 - Entered email address is:- madhuveerannaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (9d3027b7-d62b-4b30-9ea1-173d48fad7bd)] -> id: email_create]
+2018-02-09 16:06:54 INFO  AutomationPractiseRegistrationPage:130 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (9d3027b7-d62b-4b30-9ea1-173d48fad7bd)] -> id: SubmitCreate]
+2018-02-09 16:06:56 INFO  AutomationPractiseRegistrationPage:135 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (9d3027b7-d62b-4b30-9ea1-173d48fad7bd)] -> id: customer_firstname]
+2018-02-09 16:21:26 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:21:28 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (b1a7f1f5-66d7-4013-b005-22e7b39c0bc0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:21:29 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (b1a7f1f5-66d7-4013-b005-22e7b39c0bc0)] -> id: email_create]
+2018-02-09 16:21:29 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (b1a7f1f5-66d7-4013-b005-22e7b39c0bc0)] -> id: SubmitCreate]
+2018-02-09 16:21:31 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (b1a7f1f5-66d7-4013-b005-22e7b39c0bc0)] -> id: customer_firstname]
+2018-02-09 16:22:48 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:22:50 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (eb821bf1-bd54-44d5-9b68-de4da7704ced)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:22:51 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (eb821bf1-bd54-44d5-9b68-de4da7704ced)] -> id: email_create]
+2018-02-09 16:22:51 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (eb821bf1-bd54-44d5-9b68-de4da7704ced)] -> id: SubmitCreate]
+2018-02-09 16:22:53 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (eb821bf1-bd54-44d5-9b68-de4da7704ced)] -> id: customer_firstname]
+2018-02-09 16:22:58 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 16:34:17 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:34:19 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:34:20 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: email_create]
+2018-02-09 16:34:21 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: SubmitCreate]
+2018-02-09 16:34:22 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: customer_firstname]
+2018-02-09 16:34:23 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: customer_lastname]
+2018-02-09 16:34:23 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: email]
+2018-02-09 16:34:23 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (ad4d5d6a-1655-4577-90e7-4a59fa66278b)] -> id: passwd]
+2018-02-09 16:36:01 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:36:03 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:36:03 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: email_create]
+2018-02-09 16:36:04 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: SubmitCreate]
+2018-02-09 16:36:06 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: customer_firstname]
+2018-02-09 16:36:06 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: customer_lastname]
+2018-02-09 16:36:07 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: email]
+2018-02-09 16:36:07 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (a2a44536-c86c-46a0-8ec4-afa887ea1ef2)] -> id: passwd]
+2018-02-09 16:38:19 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:38:22 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:38:23 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: email_create]
+2018-02-09 16:38:23 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: SubmitCreate]
+2018-02-09 16:38:25 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: customer_firstname]
+2018-02-09 16:38:25 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: customer_lastname]
+2018-02-09 16:38:26 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaaaa93@gmail.com and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: email]
+2018-02-09 16:38:26 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (bf46a156-b3a2-4631-b33d-e8fa8e1cf5d2)] -> id: passwd]
+2018-02-09 16:38:31 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 16:52:46 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:53:15 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:54:32 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 16:54:39 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (d98034d5-691b-4b39-af38-1359aa3c8764)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 16:55:07 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa94@gmail.com and object is [[FirefoxDriver: firefox on XP (d98034d5-691b-4b39-af38-1359aa3c8764)] -> id: email_create]
+2018-02-09 16:56:39 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 17:04:29 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 17:04:32 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 17:04:32 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa94@gmail.com and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: email_create]
+2018-02-09 17:04:33 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: SubmitCreate]
+2018-02-09 17:04:35 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: customer_firstname]
+2018-02-09 17:04:35 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: customer_lastname]
+2018-02-09 17:04:35 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaaaa94@gmail.com and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: email]
+2018-02-09 17:04:35 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (ad5c4ae5-b523-4e46-b9c2-9b0b517710ba)] -> id: passwd]
+2018-02-09 17:05:43 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 17:05:46 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 17:05:46 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaaaa94@gmail.com and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: email_create]
+2018-02-09 17:05:46 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: SubmitCreate]
+2018-02-09 17:05:48 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: customer_firstname]
+2018-02-09 17:05:49 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: customer_lastname]
+2018-02-09 17:05:49 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaaaa94@gmail.com and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: email]
+2018-02-09 17:05:49 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (b8ede98f-d321-40e7-b7fa-a0c7f757895b)] -> id: passwd]
+2018-02-09 17:06:01 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 17:07:36 INFO  TC003_VerifyRegistration:41 -  ======== Starting userRegistration ======== 
+2018-02-09 17:07:38 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 17:07:38 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveerannaaa95@gmail.com and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: email_create]
+2018-02-09 17:07:39 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: SubmitCreate]
+2018-02-09 17:07:41 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: customer_firstname]
+2018-02-09 17:07:41 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: customer_lastname]
+2018-02-09 17:07:42 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveerannaaa95@gmail.com and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: email]
+2018-02-09 17:07:42 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (173c1b3a-26da-4415-b2e8-709524c8eb06)] -> id: passwd]
+2018-02-09 17:07:53 INFO  TC003_VerifyRegistration:44 -  ======== Finished userRegistration ======== 
+2018-02-09 17:14:24 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 17:14:27 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 17:14:27 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeranna1a95@gmail.com and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: email_create]
+2018-02-09 17:14:28 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: SubmitCreate]
+2018-02-09 17:14:30 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: customer_firstname]
+2018-02-09 17:14:30 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: customer_lastname]
+2018-02-09 17:14:30 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveeranna1a95@gmail.com and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: email]
+2018-02-09 17:14:30 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (a4773fef-230a-4eb8-9c7d-e1e8ef64950b)] -> id: passwd]
+2018-02-09 17:14:36 INFO  TC003_VerifyRegistration:43 -  ======== Finished userRegistration ======== 
+2018-02-09 18:08:52 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:08:55 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (6f39955f-6c39-44bd-b181-2369e8ad59a8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:08:55 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (6f39955f-6c39-44bd-b181-2369e8ad59a8)] -> id: email_create]
+2018-02-09 18:17:47 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:18:01 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:18:11 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (344138c8-33cb-45de-932c-8cb556da5742)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:18:11 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (344138c8-33cb-45de-932c-8cb556da5742)] -> id: email_create]
+2018-02-09 18:18:58 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:19:17 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (411723f4-5297-4a6a-bf17-1283355d89be)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:19:20 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (411723f4-5297-4a6a-bf17-1283355d89be)] -> id: email_create]
+2018-02-09 18:21:01 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:26:25 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:26:27 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (431705b1-f7ce-4f85-8d06-bf915db7970d)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:29:58 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (431705b1-f7ce-4f85-8d06-bf915db7970d)] -> id: email_create]
+2018-02-09 18:31:39 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:33:27 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (62beda9b-2528-489f-9b1e-b1dc445d9c6b)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:34:35 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (62beda9b-2528-489f-9b1e-b1dc445d9c6b)] -> id: email_create]
+2018-02-09 18:36:19 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:36:22 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (3b60fe42-1751-4413-882a-0f7a556891e6)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:36:22 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (3b60fe42-1751-4413-882a-0f7a556891e6)] -> id: email_create]
+2018-02-09 18:43:38 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:43:40 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (6ef8d726-5920-48d2-a276-ca473060c6d2)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:43:40 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (6ef8d726-5920-48d2-a276-ca473060c6d2)] -> id: email_create]
+2018-02-09 18:47:48 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 18:48:05 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (0762af12-a8fe-4a4b-a555-b3cd8dec68ab)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 18:48:15 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (0762af12-a8fe-4a4b-a555-b3cd8dec68ab)] -> id: email_create]
+2018-02-09 19:02:42 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-09 19:02:47 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (94ae5fc5-bde1-4870-b613-57a9a5715a20)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-09 19:02:59 INFO  TestBase:65 - Waiting for element to be clickable[[FirefoxDriver: firefox on XP (94ae5fc5-bde1-4870-b613-57a9a5715a20)] -> id: email_create]
+2018-02-20 11:13:43 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-20 11:13:46 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-20 11:13:47 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeraa95@gmail.com and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: email_create]
+2018-02-20 11:13:48 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: SubmitCreate]
+2018-02-20 11:13:50 INFO  AutomationPractiseRegistrationPage:131 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: customer_firstname]
+2018-02-20 11:13:50 INFO  AutomationPractiseRegistrationPage:134 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: customer_lastname]
+2018-02-20 11:13:50 INFO  AutomationPractiseRegistrationPage:138 - Entered email address is:- madhuveeraa95@gmail.com and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: email]
+2018-02-20 11:13:50 INFO  AutomationPractiseRegistrationPage:140 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (6e7c55f8-0976-4614-94d3-e5ab0247d002)] -> id: passwd]
+2018-02-20 11:13:57 INFO  TC003_VerifyRegistration:43 -  ======== Finished userRegistration ======== 
+2018-02-20 18:04:11 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-20 18:04:14 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-20 18:04:14 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeranna01@gmail.com and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: email_create]
+2018-02-20 18:04:15 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: SubmitCreate]
+2018-02-20 18:04:16 INFO  AutomationPractiseRegistrationPage:129 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: id_gender1]
+2018-02-20 18:04:17 INFO  AutomationPractiseRegistrationPage:132 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: customer_firstname]
+2018-02-20 18:04:17 INFO  AutomationPractiseRegistrationPage:135 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: customer_lastname]
+2018-02-20 18:04:17 INFO  AutomationPractiseRegistrationPage:139 - Entered email address is:- madhuveeranna01@gmail.com and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: email]
+2018-02-20 18:04:17 INFO  AutomationPractiseRegistrationPage:141 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: passwd]
+2018-02-20 18:04:18 INFO  AutomationPractiseRegistrationPage:144 - Entered day is:- 11 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: days]
+2018-02-20 18:04:18 INFO  AutomationPractiseRegistrationPage:147 - Entered month is:- 10 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: months]
+2018-02-20 18:04:18 INFO  AutomationPractiseRegistrationPage:150 - Entered month is:- 1993 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: years]
+2018-02-20 18:04:19 INFO  AutomationPractiseRegistrationPage:153 - Clicked on company name and entered information is RDA Labs india PVT LTD and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: company]
+2018-02-20 18:04:19 INFO  AutomationPractiseRegistrationPage:156 - Clicked on company name and entered information is #117 1st main road 4th cross and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: address1]
+2018-02-20 18:04:19 INFO  AutomationPractiseRegistrationPage:159 - Clicked on company name and entered information is Vijaylakshmi layout Bagalgunte and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: address2]
+2018-02-20 18:04:19 INFO  AutomationPractiseRegistrationPage:162 - Clicked on company name and entered information is Bangalore and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: city]
+2018-02-20 18:04:20 INFO  AutomationPractiseRegistrationPage:165 - Clicked on state and passed infomration is Indiana and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: id_state]
+2018-02-20 18:04:20 INFO  AutomationPractiseRegistrationPage:168 - Clicked on postal code and passed infomration is 56007 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: postcode]
+2018-02-20 18:04:20 INFO  AutomationPractiseRegistrationPage:171 - Clicked on Country and passed infomration is United States and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: id_country]
+2018-02-20 18:04:20 INFO  AutomationPractiseRegistrationPage:174 - Clicked on Additional Info and passed infomration is I am working as Sr Associate Engineer in the QA Department and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: other]
+2018-02-20 18:04:21 INFO  AutomationPractiseRegistrationPage:177 - Clicked on home phone and passed infomration is 9035832317 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: phone]
+2018-02-20 18:04:21 INFO  AutomationPractiseRegistrationPage:180 - Clicked on moble phone and passed infomration is 9035832317 and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: phone_mobile]
+2018-02-20 18:04:21 INFO  AutomationPractiseRegistrationPage:183 - Clicked on Alias and passed infomration is Maddy and object is [[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> id: alias]
+2018-02-20 18:05:23 INFO  AutomationPractiseRegistrationPage:185 - Clicked on register button and object isProxy element for: DefaultElementLocator 'By.xpath: //*[@id="submitAccount"]/span'
+2018-02-20 18:05:23 INFO  AutomationPractiseRegistrationPage:187 - Waited for element to appear!! SignOutElement visible and object is[[FirefoxDriver: firefox on XP (bb9d37bb-ada8-4599-9c95-887bd0d01dfb)] -> xpath: //a[contains(text(),'Sign out')]]
+2018-02-20 18:05:23 INFO  TC003_VerifyRegistration:43 -  ======== Finished userRegistration ======== 
+2018-02-21 18:29:39 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-02-21 18:29:42 INFO  AutomationPractiseRegistrationPage:111 - Clicked on sign in and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-21 18:29:43 INFO  AutomationPractiseRegistrationPage:116 - Entered email address is:- madhuveeranna02@gmail.com and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: email_create]
+2018-02-21 18:29:43 INFO  AutomationPractiseRegistrationPage:126 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: SubmitCreate]
+2018-02-21 18:29:45 INFO  AutomationPractiseRegistrationPage:129 - Clicked on Create Account button and object is[[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: id_gender1]
+2018-02-21 18:29:45 INFO  AutomationPractiseRegistrationPage:132 - Entered first name is:- Madhu and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: customer_firstname]
+2018-02-21 18:29:46 INFO  AutomationPractiseRegistrationPage:135 - Entered last name is:- veeranna and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: customer_lastname]
+2018-02-21 18:29:46 INFO  AutomationPractiseRegistrationPage:139 - Entered email address is:- madhuveeranna02@gmail.com and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: email]
+2018-02-21 18:29:46 INFO  AutomationPractiseRegistrationPage:141 - Entered password is:- M@dhu9093 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: passwd]
+2018-02-21 18:29:47 INFO  AutomationPractiseRegistrationPage:144 - Entered day is:- 11 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: days]
+2018-02-21 18:29:47 INFO  AutomationPractiseRegistrationPage:147 - Entered month is:- 10 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: months]
+2018-02-21 18:29:47 INFO  AutomationPractiseRegistrationPage:150 - Entered month is:- 1993 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: years]
+2018-02-21 18:29:48 INFO  AutomationPractiseRegistrationPage:153 - Clicked on company name and entered information is RDA Labs india PVT LTD and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: company]
+2018-02-21 18:29:48 INFO  AutomationPractiseRegistrationPage:156 - Clicked on company name and entered information is #117 1st main road 4th cross and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: address1]
+2018-02-21 18:29:48 INFO  AutomationPractiseRegistrationPage:159 - Clicked on company name and entered information is Vijaylakshmi layout Bagalgunte and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: address2]
+2018-02-21 18:29:48 INFO  AutomationPractiseRegistrationPage:162 - Clicked on company name and entered information is Bangalore and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: city]
+2018-02-21 18:29:49 INFO  AutomationPractiseRegistrationPage:165 - Clicked on state and passed infomration is Indiana and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: id_state]
+2018-02-21 18:29:49 INFO  AutomationPractiseRegistrationPage:168 - Clicked on postal code and passed infomration is 56007 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: postcode]
+2018-02-21 18:29:49 INFO  AutomationPractiseRegistrationPage:171 - Clicked on Country and passed infomration is United States and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: id_country]
+2018-02-21 18:29:49 INFO  AutomationPractiseRegistrationPage:174 - Clicked on Additional Info and passed infomration is I am working as Sr Associate Engineer in the QA Department and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: other]
+2018-02-21 18:29:50 INFO  AutomationPractiseRegistrationPage:177 - Clicked on home phone and passed infomration is 9035832317 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: phone]
+2018-02-21 18:29:50 INFO  AutomationPractiseRegistrationPage:180 - Clicked on moble phone and passed infomration is 9035832317 and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: phone_mobile]
+2018-02-21 18:29:50 INFO  AutomationPractiseRegistrationPage:183 - Clicked on Alias and passed infomration is Maddy and object is [[FirefoxDriver: firefox on XP (64d05ac8-d323-4e3f-b5c1-a471c5f67938)] -> id: alias]
+2018-02-27 23:52:34 INFO  TC001_VerifyLoginWithInvalidCredentails:29 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-27 23:52:37 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (8397547d2d140fb73cf8d5fcd6b24377)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-27 23:52:37 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-test@gmail.com and object is [[ChromeDriver: chrome on XP (8397547d2d140fb73cf8d5fcd6b24377)] -> id: email]
+2018-02-27 23:52:37 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password123 and object is password123
+2018-02-27 23:52:40 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (8397547d2d140fb73cf8d5fcd6b24377)] -> id: SubmitLogin]
+2018-02-27 23:52:40 INFO  AutomationPractiseLoginPage:52 - Error message is Authentication failed.
+2018-02-27 23:52:40 INFO  TC001_VerifyLoginWithInvalidCredentails:33 -  ======== Finished VerifyLoginWithInvalidCredentails ========
+2018-02-27 23:53:20 INFO  TC001_VerifyLoginWithInvalidCredentails:29 -  ======== Starting VerifyLoginWithInvalidCredentails ========
+2018-02-27 23:53:23 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (44c0a7c4b1fd7ef2006edf39c2d75df5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-27 23:53:23 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-test@gmail.com and object is [[ChromeDriver: chrome on XP (44c0a7c4b1fd7ef2006edf39c2d75df5)] -> id: email]
+2018-02-27 23:53:23 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password123 and object is password123
+2018-02-27 23:53:25 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (44c0a7c4b1fd7ef2006edf39c2d75df5)] -> id: SubmitLogin]
+2018-02-27 23:53:25 INFO  AutomationPractiseLoginPage:52 - Error message is:- Authentication failed.
+2018-02-27 23:53:25 INFO  TC001_VerifyLoginWithInvalidCredentails:33 -  ======== Finished VerifyLoginWithInvalidCredentails ========
+2018-02-27 23:54:05 INFO  TC004_VerifyLoginWithDiffferentRecords:28 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-27 23:56:32 INFO  TC004_VerifyLoginWithDiffferentRecords:28 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-27 23:57:03 INFO  TC004_VerifyLoginWithDiffferentRecords:28 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-27 23:59:08 INFO  TC004_VerifyLoginWithDiffferentRecords:26 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-02-27 23:59:11 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (d714180f9b6c8ffe696e026994fdd2d6)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-02-27 23:59:11 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-automation@gmail.com and object is [[ChromeDriver: chrome on XP (d714180f9b6c8ffe696e026994fdd2d6)] -> id: email]
+2018-02-27 23:59:11 INFO  AutomationPractiseLoginPage:46 - Entered password is:-test123 and object is test123
+2018-02-27 23:59:12 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (d714180f9b6c8ffe696e026994fdd2d6)] -> id: SubmitLogin]
+2018-02-27 23:59:12 INFO  TC004_VerifyLoginWithDiffferentRecords:30 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:45 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:49 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:15:49 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:15:49 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:15:51 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:15:51 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:51 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:53 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:15:53 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:15:53 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:15:54 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:15:54 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:54 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:55 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:15:56 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:15:56 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:15:57 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:15:57 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:57 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:15:58 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:15:59 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:15:59 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:16:00 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:16:00 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:00 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:01 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:16:02 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:16:02 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:16:03 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:16:03 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:03 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:05 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:16:05 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:16:05 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:16:07 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:16:07 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:07 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:16:08 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:16:08 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: email]
+2018-03-12 19:16:08 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:16:09 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (b3dff29f52080b8106b1b07278544e25)] -> id: SubmitLogin]
+2018-03-12 19:16:09 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:36 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:37 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:18:37 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: email]
+2018-03-12 19:18:37 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:18:39 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: SubmitLogin]
+2018-03-12 19:18:39 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:39 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:40 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:18:40 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: email]
+2018-03-12 19:18:40 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:18:42 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: SubmitLogin]
+2018-03-12 19:18:42 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:42 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:43 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:18:43 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: email]
+2018-03-12 19:18:43 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:18:44 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: SubmitLogin]
+2018-03-12 19:18:44 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:44 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:18:45 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:18:46 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: email]
+2018-03-12 19:18:46 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:18:47 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (7b4a14d50c4e458d3290802faf0c1008)] -> id: SubmitLogin]
+2018-03-12 19:18:47 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:44 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:46 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:19:46 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:19:46 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:19:48 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:19:48 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:48 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:49 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:19:49 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:19:50 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:19:51 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:19:51 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:51 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:53 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:19:53 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:19:53 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:19:54 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:19:54 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:54 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:55 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:19:56 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:19:56 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:19:57 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:19:57 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:57 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:19:58 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:19:59 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:19:59 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:20:00 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:20:00 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:20:00 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:20:03 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:20:03 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:20:03 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:20:05 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:20:05 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:20:05 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:20:06 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:20:06 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: email]
+2018-03-12 19:20:07 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:20:08 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2c8fd34e6a4f4abb029451eff8dcafea)] -> id: SubmitLogin]
+2018-03-12 19:20:08 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:23 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:25 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:25 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:25 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:22:26 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:26 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:26 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:27 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:28 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:28 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:22:29 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:29 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:29 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:31 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:31 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-false and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:31 INFO  AutomationPractiseLoginPage:46 - Entered password is:-false and object is false
+2018-03-12 19:22:33 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:33 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:33 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:35 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:35 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-false and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:35 INFO  AutomationPractiseLoginPage:46 - Entered password is:-false and object is false
+2018-03-12 19:22:37 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:37 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:37 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:38 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:39 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-false and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:39 INFO  AutomationPractiseLoginPage:46 - Entered password is:-false and object is false
+2018-03-12 19:22:40 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:40 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:40 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:41 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:41 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-false and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:42 INFO  AutomationPractiseLoginPage:46 - Entered password is:-false and object is false
+2018-03-12 19:22:43 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:43 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:43 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:22:44 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:22:44 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-false and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: email]
+2018-03-12 19:22:44 INFO  AutomationPractiseLoginPage:46 - Entered password is:-false and object is false
+2018-03-12 19:22:45 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (39feb139096d251b51c68c23f50fced4)] -> id: SubmitLogin]
+2018-03-12 19:22:45 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:49 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:51 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:24:51 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:24:51 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:24:52 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:24:52 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:52 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:54 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:24:54 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:24:54 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:24:55 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:24:55 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:55 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:56 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:24:56 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:24:56 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:24:58 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:24:58 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:58 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:24:59 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:24:59 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:24:59 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:25:00 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:25:00 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:00 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:02 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:25:02 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:25:02 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:25:03 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:25:03 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:03 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:05 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:25:05 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:25:05 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:25:07 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:25:07 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:07 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:25:08 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:25:08 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: email]
+2018-03-12 19:25:09 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:25:10 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f6065c9f32cb6998101c2122f59879e7)] -> id: SubmitLogin]
+2018-03-12 19:25:10 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:32:45 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:32:47 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (7c92c028c3381df01214dca993014a26)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:32:47 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (7c92c028c3381df01214dca993014a26)] -> id: email]
+2018-03-12 19:32:47 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:32:49 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (7c92c028c3381df01214dca993014a26)] -> id: SubmitLogin]
+2018-03-12 19:32:49 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:33:51 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:33:54 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:33:54 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> id: email]
+2018-03-12 19:33:54 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:33:55 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> id: SubmitLogin]
+2018-03-12 19:33:55 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:33:55 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-12 19:33:56 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-12 19:33:57 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> id: email]
+2018-03-12 19:33:57 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-12 19:33:58 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c753ae5057750469e474ad9c3abb6b21)] -> id: SubmitLogin]
+2018-03-12 19:33:58 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-13 11:06:51 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-13 11:06:54 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (2cd71c789025c535e0e63d2307c0b4c0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-13 11:06:54 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.con and object is [[ChromeDriver: chrome on XP (2cd71c789025c535e0e63d2307c0b4c0)] -> id: email]
+2018-03-13 11:06:54 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-13 11:06:55 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (2cd71c789025c535e0e63d2307c0b4c0)] -> id: SubmitLogin]
+2018-03-13 11:06:55 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-13 11:07:12 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-13 11:07:13 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (241f8655b5e930ab1d1d57b19aa31148)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-13 11:07:13 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-sheet3@gmail.com and object is [[ChromeDriver: chrome on XP (241f8655b5e930ab1d1d57b19aa31148)] -> id: email]
+2018-03-13 11:07:13 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-13 11:07:14 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (241f8655b5e930ab1d1d57b19aa31148)] -> id: SubmitLogin]
+2018-03-13 11:07:14 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:10 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:14 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:14 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> id: email]
+2018-03-15 15:43:14 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:16 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> id: SubmitLogin]
+2018-03-15 15:43:16 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:16 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:17 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:18 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> id: email]
+2018-03-15 15:43:18 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:19 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> id: SubmitLogin]
+2018-03-15 15:43:19 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:19 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:20 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:21 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (5caf42aa3eab68b477fa5592ac09b5c8)] -> id: email]
+2018-03-15 15:43:21 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:37 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:39 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:39 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:39 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:41 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:41 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:41 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:42 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:42 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:42 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:43 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:43 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:43 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:45 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:45 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:45 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:46 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:46 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:46 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:48 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:48 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:48 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:49 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:49 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:49 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:51 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:51 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:51 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:52 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:52 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:52 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:54 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:54 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:54 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:55 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:55 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:55 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 15:43:57 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 15:43:57 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: email]
+2018-03-15 15:43:57 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 15:43:59 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c491ac7ab46d49e21ae11cafe6465ff0)] -> id: SubmitLogin]
+2018-03-15 15:43:59 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:05 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:07 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:07 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:07 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:08 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:08 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:08 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:10 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:10 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:10 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:11 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:11 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:11 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:12 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:12 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:12 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:13 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:13 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:13 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:14 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:14 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:14 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:15 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:15 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:15 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:17 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:17 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:17 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:18 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:18 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:18 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:19 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:19 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:19 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:20 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:20 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:20 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:22:22 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:22:22 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: email]
+2018-03-15 16:22:22 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:22:23 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6d0b8a4c89721392150ffe90a7103787)] -> id: SubmitLogin]
+2018-03-15 16:22:23 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:25 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:35 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:55 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:57 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:31:57 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:31:57 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:31:58 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:31:58 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:58 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:31:59 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:31:59 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:31:59 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:00 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:00 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:00 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:02 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:32:02 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:32:02 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:03 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:03 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:03 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:04 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:32:04 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:32:05 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:06 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:06 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:06 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:07 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:32:08 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:32:08 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:10 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:10 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:10 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:12 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:32:12 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:32:12 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:13 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:13 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:13 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 16:32:14 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 16:32:14 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: email]
+2018-03-15 16:32:14 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 16:32:15 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c03eda8b4020f45ad65f1ffd3248cfc8)] -> id: SubmitLogin]
+2018-03-15 16:32:15 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:21 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:31 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:42:31 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:42:31 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:42:34 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:42:34 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:34 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:40 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:42:40 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:42:40 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:42:43 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:42:43 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:43 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:45 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:42:45 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:42:46 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:42:49 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:42:49 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:49 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:51 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:42:51 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:42:51 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:42:53 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:42:53 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:53 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:55 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:42:55 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:42:55 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:42:57 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:42:57 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:42:57 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:43:00 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:43:00 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:43:00 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:43:02 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:43:02 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:43:02 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:43:08 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:43:08 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: email]
+2018-03-15 22:43:08 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:43:10 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (20aeb66c482bb7437a28f941ab6616f0)] -> id: SubmitLogin]
+2018-03-15 22:43:10 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:44:12 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:44:15 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:44:15 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> id: email]
+2018-03-15 22:44:15 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:44:18 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> id: SubmitLogin]
+2018-03-15 22:44:18 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:44:18 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:44:21 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:44:21 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> id: email]
+2018-03-15 22:44:21 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:44:23 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (5a7bb60fc7b5540f94d0221f2acb1511)] -> id: SubmitLogin]
+2018-03-15 22:44:23 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:45:54 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:45:57 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:45:57 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:45:57 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:45:59 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:45:59 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:45:59 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:01 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:01 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:01 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:02 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:02 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:02 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:05 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:05 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:05 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:07 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:07 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:07 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:10 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:10 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:10 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:12 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:12 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:12 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:19 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:19 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:20 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:21 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:21 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:21 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:24 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:24 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:24 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:26 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:26 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:26 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-15 22:46:28 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-15 22:46:28 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: email]
+2018-03-15 22:46:28 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-15 22:46:30 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (59add1d4372cac05a73733cd8d916cb5)] -> id: SubmitLogin]
+2018-03-15 22:46:30 INFO  TC004_VerifyLoginWithDiffferentRecords:40 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:12 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:15 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:16 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:16 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:18 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:19 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:21 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:21 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:22 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:23 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:23 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:26 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:26 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:26 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:28 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:28 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:32 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:32 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:32 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:34 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:34 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:37 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:37 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:37 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:39 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:39 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:43 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:44 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu6@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:44 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:46 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:55:46 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:55:48 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:55:48 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu7@gmail.com and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: email]
+2018-03-18 22:55:48 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:55:50 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (c4a0f54bb57e343447bd43f28296ff06)] -> id: SubmitLogin]
+2018-03-18 22:59:07 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:59:10 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:59:10 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: email]
+2018-03-18 22:59:10 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:59:12 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: SubmitLogin]
+2018-03-18 22:59:12 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:59:15 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:59:15 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: email]
+2018-03-18 22:59:15 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:59:16 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: SubmitLogin]
+2018-03-18 22:59:17 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:59:19 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:59:19 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: email]
+2018-03-18 22:59:19 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:59:21 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: SubmitLogin]
+2018-03-18 22:59:21 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:59:25 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:59:25 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: email]
+2018-03-18 22:59:25 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:59:27 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: SubmitLogin]
+2018-03-18 22:59:27 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 22:59:30 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 22:59:30 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: email]
+2018-03-18 22:59:30 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 22:59:31 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (04f9ffa126afe78222758d4585ac5f31)] -> id: SubmitLogin]
+2018-03-18 23:03:25 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:03:27 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:03:27 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: email]
+2018-03-18 23:03:28 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:03:30 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: SubmitLogin]
+2018-03-18 23:03:30 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:03:32 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:03:33 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu2@gmail.com and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: email]
+2018-03-18 23:03:33 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:03:34 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: SubmitLogin]
+2018-03-18 23:03:34 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:03:36 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:03:37 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu3@gmail.com and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: email]
+2018-03-18 23:03:37 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:03:38 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: SubmitLogin]
+2018-03-18 23:03:38 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:03:41 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:03:42 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu4@gmail.com and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: email]
+2018-03-18 23:03:42 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:03:44 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: SubmitLogin]
+2018-03-18 23:03:45 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:03:47 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:03:47 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu5@gmail.com and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: email]
+2018-03-18 23:03:47 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:03:49 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (77ad44b27b1c7ce0d0bf67a572b13a50)] -> id: SubmitLogin]
+2018-03-18 23:04:42 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-18 23:04:45 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (50782b0fd2261360978b313610b275c2)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-18 23:04:45 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (50782b0fd2261360978b313610b275c2)] -> id: email]
+2018-03-18 23:04:45 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-18 23:04:47 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (50782b0fd2261360978b313610b275c2)] -> id: SubmitLogin]
+2018-03-19 17:38:19 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-19 17:38:21 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (cf922491260e799f6995e251d9fc7a36)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-19 17:38:21 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (cf922491260e799f6995e251d9fc7a36)] -> id: email]
+2018-03-19 17:38:22 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-19 17:38:23 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (cf922491260e799f6995e251d9fc7a36)] -> id: SubmitLogin]
+2018-03-19 17:38:24 INFO  TC004_VerifyLoginWithDiffferentRecords:41 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-19 17:44:41 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-19 17:44:42 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (9abc2e2ee4550da918f9d32520374487)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-19 17:44:43 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (9abc2e2ee4550da918f9d32520374487)] -> id: email]
+2018-03-19 17:44:43 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-19 17:44:44 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (9abc2e2ee4550da918f9d32520374487)] -> id: SubmitLogin]
+2018-03-19 17:44:44 INFO  TC004_VerifyLoginWithDiffferentRecords:41 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-19 17:45:43 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-19 17:45:45 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (732b77aa12a67831305517e3e8b5e785)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-19 17:45:45 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (732b77aa12a67831305517e3e8b5e785)] -> id: email]
+2018-03-19 17:45:45 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-19 17:45:46 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (732b77aa12a67831305517e3e8b5e785)] -> id: SubmitLogin]
+2018-03-19 17:45:47 INFO  TC004_VerifyLoginWithDiffferentRecords:41 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 15:56:11 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 15:56:14 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (f3dd3232bf1441cd572e696376386c5e)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-23 15:56:14 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (f3dd3232bf1441cd572e696376386c5e)] -> id: email]
+2018-03-23 15:56:14 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-23 15:56:16 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (f3dd3232bf1441cd572e696376386c5e)] -> id: SubmitLogin]
+2018-03-23 15:56:17 INFO  TC004_VerifyLoginWithDiffferentRecords:41 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 15:57:39 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 15:57:48 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (722ce2e5426c62c5fb18a78170a0bf71)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-23 15:57:48 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (722ce2e5426c62c5fb18a78170a0bf71)] -> id: email]
+2018-03-23 15:57:48 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-23 15:58:08 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (722ce2e5426c62c5fb18a78170a0bf71)] -> id: SubmitLogin]
+2018-03-23 15:58:09 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 16:00:13 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 16:00:16 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (6bc20c8e220f7803e72669d889328c76)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-23 16:00:16 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (6bc20c8e220f7803e72669d889328c76)] -> id: email]
+2018-03-23 16:00:16 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-23 16:00:17 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (6bc20c8e220f7803e72669d889328c76)] -> id: SubmitLogin]
+2018-03-23 16:00:18 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 16:05:08 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 16:08:41 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 16:08:44 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (aacb11d824c21b0f4e9c97a52801d1cf)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-23 16:08:44 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (aacb11d824c21b0f4e9c97a52801d1cf)] -> id: email]
+2018-03-23 16:08:44 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-23 16:08:48 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (aacb11d824c21b0f4e9c97a52801d1cf)] -> id: SubmitLogin]
+2018-03-23 16:08:48 INFO  TC004_VerifyLoginWithDiffferentRecords:41 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 18:16:20 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-23 18:16:22 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (637a1de63ed323a0e30fefb845b5e984)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-23 18:16:23 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (637a1de63ed323a0e30fefb845b5e984)] -> id: email]
+2018-03-23 18:16:23 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-23 18:16:24 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (637a1de63ed323a0e30fefb845b5e984)] -> id: SubmitLogin]
+2018-03-23 18:16:25 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:39:10 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:39:13 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (201a49d5505abe8fed4c6a787a07a99f)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-27 15:39:13 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (201a49d5505abe8fed4c6a787a07a99f)] -> id: email]
+2018-03-27 15:39:13 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-27 15:39:14 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (201a49d5505abe8fed4c6a787a07a99f)] -> id: SubmitLogin]
+2018-03-27 15:39:15 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:55:53 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:55:54 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (da9001a8e5ed73906f088863b9da1380)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-27 15:55:55 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (da9001a8e5ed73906f088863b9da1380)] -> id: email]
+2018-03-27 15:55:55 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-27 15:55:56 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (da9001a8e5ed73906f088863b9da1380)] -> id: SubmitLogin]
+2018-03-27 15:55:56 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:57:38 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:57:40 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-27 15:57:40 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> id: email]
+2018-03-27 15:57:41 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-27 15:57:42 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> id: SubmitLogin]
+2018-03-27 15:57:42 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:57:42 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 15:57:44 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-27 15:57:44 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-dfjdfiuyfy8dyfuyr8 and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> id: email]
+2018-03-27 15:57:44 INFO  AutomationPractiseLoginPage:46 - Entered password is:-deigwe and object is deigwe
+2018-03-27 15:57:46 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (4c58ca0f4306386ecd056947bf479827)] -> id: SubmitLogin]
+2018-03-27 15:57:47 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 16:41:55 INFO  TC004_VerifyLoginWithDiffferentRecords:36 -  ======== Starting VerifyLoginWithDiffferentRecords Test ========
+2018-03-27 16:41:57 INFO  AutomationPractiseLoginPage:42 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (1f840e099a7e79bf469f423b148aed3e)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-03-27 16:41:58 INFO  AutomationPractiseLoginPage:44 - Entered email address is:-madhu1@gmail.com and object is [[ChromeDriver: chrome on XP (1f840e099a7e79bf469f423b148aed3e)] -> id: email]
+2018-03-27 16:41:58 INFO  AutomationPractiseLoginPage:46 - Entered password is:-password and object is password
+2018-03-27 16:41:59 INFO  AutomationPractiseLoginPage:48 - Clicked on submit button and object is [[ChromeDriver: chrome on XP (1f840e099a7e79bf469f423b148aed3e)] -> id: SubmitLogin]
+2018-03-27 16:41:59 INFO  TC004_VerifyLoginWithDiffferentRecords:42 -  ======== Finished VerifyLoginWithDiffferentRecords Test ========
+2018-04-04 23:45:52 INFO  TC002_VerifyJabongRegistration:30 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-04 23:45:52 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-04 23:45:53 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-90625CDBDE9767CD47103FD18916973B
+2018-04-04 23:45:53 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: firstname]
+2018-04-04 23:45:54 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: lastname]
+2018-04-04 23:45:54 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveede11ewe2e@gmail.com and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: email]
+2018-04-04 23:45:54 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: pwd]
