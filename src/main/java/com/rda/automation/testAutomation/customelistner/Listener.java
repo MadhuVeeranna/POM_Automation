@@ -34,11 +34,11 @@ public class Listener extends TestBase implements ITestListener{
 		String methodName = result.getName();
 		
 		if(!result.isSuccess()){	
-			File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);//Screenshot captured at runtime
 			
 			try {
 				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\src\\main\\java\\com\\rda\\automation\\testAutomation\\config";
-				File destFile = new File((String)reportDirectory + "//failure_screenshots//" + methodName + timeStamp + ".png");
+				File destFile = new File((String)reportDirectory + "//failure_screenshots//" + methodName + timeStamp + ".png");//Destfile created at runtime
 				FileUtils.copyFile(srcFile, destFile);
 				Reporter.log("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath()+"' height='100', weidth='100'/> </a>");
 			} catch (IOException e) {
@@ -65,6 +65,32 @@ public class Listener extends TestBase implements ITestListener{
 
 	public void onFinish(ITestContext context) {
 		// TODO Auto-generated method stub
+		//Creating the calendar object
+		Calendar calendar = Calendar.getInstance();
+		//Creating the dateformat to store the file with time stamp
+		String timeStamp = new SimpleDateFormat("dd_mm_YYYY_hh_mm_ss").format(calendar.getTime());
+		//Directly we cannot take the screenshot in selenium we have to cast the driver to takescreenshot class
+		File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);//Screenshot captured at run time
+		
+		//Fetching the location where we have to store the screenshot file
+		try {
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\src\\main\\java\\com\\rda\\automation\\testAutomation\\screenshot\\";
+			File destFile = new File((String)reportDirectory + timeStamp + ".png");//Destfile created att runtime
+			FileUtils.copyFile(srcFile, destFile);
+			Reporter.log("<a href = '" + destFile.getAbsolutePath() + "'> <,img src = '" + destFile.getAbsolutePath()+"' height='100', weidth='100'/> </a>");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 

@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Iterator;
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -21,6 +23,7 @@ public class TestBase {
 	
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
 	
+	//Will declare the webdriver as Static, because we want this driver to be available across the project hence static.
 	public static WebDriver driver;
 	//String url = "http://automationpractice.com/index.php";
 	String url = "https://www.jabong.com/";
@@ -59,6 +62,13 @@ public class TestBase {
 		 driver.get(url);
 		 driver.manage().window().maximize();
 		 driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		 
+		/* This code will get all the windows ID and we can switch using the windows ID
+		 * Set<String> window = driver.getWindowHandles();
+		 Iterator<String> itr = window.iterator();
+		 String parentwindow = itr.next();
+		 String childwindow = itr.next();
+		 driver.switchTo().window(childwindow);*/
 	 }
 	 
 	 //Overriding the excel data reader method as this method functionality will be required by different test scripts
@@ -75,14 +85,15 @@ public class TestBase {
 		 //Creating the date format to store the file with date name
 		 String timeStamp = new SimpleDateFormat("dd_mm_yyYY_hh_mm_ss").format(calendar.getTime());
 		 //Directly we cannot take the screenshot using selenium webdriver, we have to cast the driver object to screenshot class using curly braces
-		 File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		 //Featching the location where we have to store the screenshot file
+		 File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);//Screenshot captured at runtime
+
 		 try {
+			//Featching the location where we have to store the screenshot file
 			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\src\\main\\java\\com\\rda\\automation\\testAutomation\\screenshot\\";
-			 File destFile = new File((String)reportDirectory + name + "_" + timeStamp + ".png");
+			 File destFile = new File((String)reportDirectory + name + "_" + timeStamp + ".png");//DestFile created at runtime
 			 FileUtils.copyFile(srcFile, destFile);
 			 //below log will help us to link the screenshot in to testNG report
-			 //To convert the path to string we are writing '" and "'
+			 //To convert the path to string we are writing '" and "'. Reporter.log will take only string value
 			 Reporter.log("<a href ='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath()+ "' height='100' width='100'/> </a>");
 			 /*String path = "<img src=\"file://" + destFile + "\" alt=\"\"/>";
 			 Reporter.log(path);
@@ -91,8 +102,13 @@ public class TestBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}	 
-	 }
+	 } 
 	  
+	 public Iterator<String> getAllWindows(){
+		 Set<String> windows = driver.getWindowHandles();
+		 Iterator<String> itr = windows.iterator();
+		 return itr;
+	 }
 	 
 	
 }

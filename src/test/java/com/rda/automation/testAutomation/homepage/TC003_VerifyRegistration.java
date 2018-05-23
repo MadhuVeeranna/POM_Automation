@@ -31,7 +31,7 @@ public class TC003_VerifyRegistration extends TestBase{
 	String alias = "Maddy";
 	
 	@BeforeTest
-	public void setup(){
+	public void setUp(){
 		init();
 	}
 	

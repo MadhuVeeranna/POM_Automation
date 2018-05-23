@@ -1072,3 +1072,134 @@
 2018-04-04 23:45:54 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: lastname]
 2018-04-04 23:45:54 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveede11ewe2e@gmail.com and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: email]
 2018-04-04 23:45:54 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (0a8da46db2afc66f8aa91d9010a0b06e)] -> id: pwd]
+2018-04-10 18:46:51 INFO  TC002_VerifyJabongRegistration:30 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-10 18:46:51 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (5417b729324cac2b7f575d33e4cff2ff)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-10 18:46:52 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-98861E41A8CF783C8784DE6EB5034742
+2018-04-10 18:46:52 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (5417b729324cac2b7f575d33e4cff2ff)] -> id: firstname]
+2018-04-10 18:46:53 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (5417b729324cac2b7f575d33e4cff2ff)] -> id: lastname]
+2018-04-10 18:46:53 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveede11ewe2e@gmail.com and object is:-[[ChromeDriver: chrome on XP (5417b729324cac2b7f575d33e4cff2ff)] -> id: email]
+2018-04-12 16:05:01 INFO  TC002_VerifyJabongRegistration:31 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:05:01 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:05:02 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-B2455E6A35DB2EC3FA5A77D98695987A
+2018-04-12 16:05:02 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: firstname]
+2018-04-12 16:05:02 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: lastname]
+2018-04-12 16:05:02 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523529286801@gmail.com and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: email]
+2018-04-12 16:05:03 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: pwd]
+2018-04-12 16:05:03 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: mobile]
+2018-04-12 16:05:03 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: female]
+2018-04-12 16:05:03 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: male]
+2018-04-12 16:05:03 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (9dc52b8fc79e29e5e176816c0aef99eb)] -> id: btn-signup]
+2018-04-12 16:05:04 INFO  TC002_VerifyJabongRegistration:37 -  ======== Finished VerifyRegistration with valid credentials ========
+2018-04-12 16:26:31 INFO  TC002_VerifyJabongRegistration:34 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:26:31 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:26:32 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-709215964992218CF08E776D4ABA939C
+2018-04-12 16:26:32 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: firstname]
+2018-04-12 16:26:32 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: lastname]
+2018-04-12 16:26:32 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523530584375@gmail.com and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: email]
+2018-04-12 16:26:33 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: pwd]
+2018-04-12 16:26:33 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: mobile]
+2018-04-12 16:26:33 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: female]
+2018-04-12 16:26:33 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: male]
+2018-04-12 16:26:33 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (5ddb98b93a42278943c43106b11cda86)] -> id: btn-signup]
+2018-04-12 16:33:34 INFO  TC002_VerifyJabongRegistration:35 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:33:34 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:33:34 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-79BD70D65B0A2B59405111EB4714D8FE
+2018-04-12 16:33:34 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: firstname]
+2018-04-12 16:33:34 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: lastname]
+2018-04-12 16:33:35 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531005884@gmail.com and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: email]
+2018-04-12 16:33:35 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: pwd]
+2018-04-12 16:33:35 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: mobile]
+2018-04-12 16:33:35 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: female]
+2018-04-12 16:33:35 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: male]
+2018-04-12 16:33:36 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (25e3e452cf79445a2c13f556d3a473e8)] -> id: btn-signup]
+2018-04-12 16:33:59 INFO  TC002_VerifyJabongRegistration:35 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:33:59 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:34:01 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-9AF7D95E6B80E7C6D4CF6C02FB141245
+2018-04-12 16:34:01 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhudsd and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: firstname]
+2018-04-12 16:34:01 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: lastname]
+2018-04-12 16:34:01 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531031428@gmail.com and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: email]
+2018-04-12 16:34:01 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: pwd]
+2018-04-12 16:34:02 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: mobile]
+2018-04-12 16:34:02 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: female]
+2018-04-12 16:34:02 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: male]
+2018-04-12 16:34:02 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (581b227ab868acafb0410cfff206c9ca)] -> id: btn-signup]
+2018-04-12 16:34:45 INFO  TC002_VerifyJabongRegistration:43 -  ======== Finished VerifyRegistration with valid credentials ========
+2018-04-12 16:35:05 INFO  TC002_VerifyJabongRegistration:35 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:35:05 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:35:06 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-6A297B6FC458CD78CD348A97B37A4D41
+2018-04-12 16:35:06 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhudsd and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: firstname]
+2018-04-12 16:35:06 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: lastname]
+2018-04-12 16:35:06 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531099330@gmail.com and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: email]
+2018-04-12 16:35:07 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: pwd]
+2018-04-12 16:35:07 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: mobile]
+2018-04-12 16:35:07 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: female]
+2018-04-12 16:35:07 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: male]
+2018-04-12 16:35:07 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (400ae5a34187baa547cd607c91c0349d)] -> id: btn-signup]
+2018-04-12 16:35:34 INFO  TC002_VerifyJabongRegistration:43 -  ======== Finished VerifyRegistration with valid credentials ========
+2018-04-12 16:45:17 INFO  TC002_VerifyJabongRegistration:36 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:45:17 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:45:17 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-946F0D88051830ABF544490BE5EA3C00
+2018-04-12 16:45:18 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhudsd and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: firstname]
+2018-04-12 16:45:18 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: lastname]
+2018-04-12 16:45:18 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531709014@gmail.com and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: email]
+2018-04-12 16:45:18 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: pwd]
+2018-04-12 16:45:19 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: mobile]
+2018-04-12 16:45:19 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: female]
+2018-04-12 16:45:19 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: male]
+2018-04-12 16:45:19 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (54f7bffe5c98c7da166cabee35d6c175)] -> id: btn-signup]
+2018-04-12 16:45:40 INFO  TC002_VerifyJabongRegistration:36 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:45:40 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:45:41 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-B898A19DAA169062CDDFDAA3DD8E51A
+2018-04-12 16:45:41 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhudsd and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: firstname]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: lastname]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531732847@gmail.com and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: email]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: pwd]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: mobile]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: female]
+2018-04-12 16:45:42 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: male]
+2018-04-12 16:45:43 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (20383316a3df618acf3a511b5109a719)] -> id: btn-signup]
+2018-04-12 16:45:59 INFO  TC002_VerifyJabongRegistration:36 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:45:59 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:46:00 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-97FBC1E79AFBB3EF25512A8CAD7726F1
+2018-04-12 16:46:00 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhudsd and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: firstname]
+2018-04-12 16:46:00 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: lastname]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1523531752667@gmail.com and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: email]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: pwd]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: mobile]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: female]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: male]
+2018-04-12 16:46:01 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (72e8c09ef117ddb3afb7ff6b4b10cf69)] -> id: btn-signup]
+2018-04-12 16:46:37 INFO  TC002_VerifyJabongRegistration:36 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-12 16:46:37 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-12 16:46:38 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-BEA38846BD1B7B5650AF0EFB1530096D
+2018-04-12 16:46:38 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-firstName and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: firstname]
+2018-04-12 16:46:38 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-lastName and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: lastname]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuranna1523531789870@gmail.com and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: email]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: pwd]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: mobile]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: female]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: male]
+2018-04-12 16:46:39 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (3cedd261a73a201145b54433e7a4138b)] -> id: btn-signup]
+2018-04-18 22:28:09 INFO  TC002_VerifyJabongRegistration:33 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-18 22:28:09 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-18 22:28:13 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-8ED2F3E7D239C99B40FF74B6DB32F236
+2018-04-18 22:28:14 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: firstname]
+2018-04-18 22:28:14 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-Veeranna and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: lastname]
+2018-04-18 22:28:14 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1524070674372@gmail.com and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: email]
+2018-04-18 22:28:14 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: pwd]
+2018-04-18 22:28:15 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-9222122319 and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: mobile]
+2018-04-18 22:28:15 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: female]
+2018-04-18 22:28:15 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: male]
+2018-04-18 22:28:15 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (82eaea921f3759e14c4233d18a8017cc)] -> id: btn-signup]
+2018-04-18 22:37:05 INFO  TC002_VerifyJabongRegistration:34 -  ======== Starting VerifyRegistration with valid credentials ========
+2018-04-18 22:37:05 INFO  JabongRegistrationPage:58 - Clicked on sign-up link and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> xpath: //a[contains(text(),'Signup')]]
+2018-04-18 22:37:10 INFO  JabongRegistrationPage:65 - Switched to signup window and object is:-CDwindow-F06AA8CAA3F580FDAF617E5E21FD9C12
+2018-04-18 22:37:10 INFO  JabongRegistrationPage:69 - Entered data to firstName field:-Madhu and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: firstname]
+2018-04-18 22:37:10 INFO  JabongRegistrationPage:73 - Entered data to lastName field:-Veeranna and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: lastname]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:77 - Entered data to email field:-madhuveeranna1524071216009@gmail.com and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: email]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:81 - Entered data to password field:-M@dhu9093 and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: pwd]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:85 - Entered data to mobile number field:-11524071216009 and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: mobile]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:87 - Selected female option and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: female]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: male]
+2018-04-18 22:37:11 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: btn-signup]
+2018-04-18 22:37:12 INFO  TC002_VerifyJabongRegistration:40 -  ======== Finished VerifyRegistration with valid credentials ========

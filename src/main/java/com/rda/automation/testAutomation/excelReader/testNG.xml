@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="UploadImage">
+<!-- Suite -->
+	
+	 <test name="UploadImage">
+		<parameter name="browserName" value="Chrome"/>
+		<classes>
+			<class name="com.rda.automation.testAutomation.excelReader.Exp">
+				<methods>
+
+					<include name="readFolder">
+					<parameter name="folderPath" value="C:\\Users\\Madhu Veeranna\\Downloads\\Health\\BSD.xlsx"></parameter>
+					<parameter name="category" value="Broken"></parameter>
+						</include>
+				
+				</methods>	
+			</class>
+		</classes>
+	</test> 
+	<!-- Test -->
+</suite>

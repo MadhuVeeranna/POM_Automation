@@ -28,7 +28,7 @@ public class JabongRegistrationPage {
 	@FindBy(id="pwd")
 	WebElement password;
 	
-	@FindBy(id="mobile123")
+	@FindBy(id="mobile")
 	WebElement mobile;
 	
 	@FindBy(id="female")

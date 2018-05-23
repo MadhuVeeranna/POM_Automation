@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/0/1</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Mar 27 16:41:44 IST 2018</td>
+<td>Started on:</td><td>Mon Apr 30 00:06:36 IST 2018</td>
 </tr>
-<tr><td>Total time:</td><td>15 seconds (15409 ms)</td>
+<tr><td>Total time:</td><td>0 seconds (22 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,45 +67,24 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords.testLogin()'><b>testLogin</b><br>Test class: com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords<br>Parameters: madhu1@gmail.com, password, y<br/>
-<a href="#Output-1244867001" onClick='toggleBox("Output-1244867001", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1244867001" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1244867001">
-<a href ='D:\Amazon New Wokspace 30-06-2016\testAutomation\src\main\java\com\rda\automation\testAutomation\screenshot\testLoginmadhu1@gmail.com_27_41_18_04_41_59.png'> <img src='D:\Amazon New Wokspace 30-06-2016\testAutomation\src\main\java\com\rda\automation\testAutomation\screenshot\testLoginmadhu1@gmail.com_27_41_18_04_41_59.png' height='100' width='100'/> </a><br/>
-</div>
-</td>
-<td></td>
-<td>4</td>
-<td>com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords@59494225</td></tr>
-</table><p>
-<table width='100%' border='1' class='invocation-skipped'>
-<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords.testLogin()'><b>testLogin</b><br>Test class: com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords<br>Parameters: dfjdfiuyfy8dyfuyr8, deigwe, n</td>
-<td><div><pre>org.testng.SkipException: User has marked this record not to run
-	at com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords.testLogin(TC004_VerifyLoginWithDiffferentRecords.java:34)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+<td title='com.rda.automation.testAutomation.excelReader.Exp.readFolder()'><b>readFolder</b><br>Test class: com.rda.automation.testAutomation.excelReader.Exp</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;folderPath&apos; is required by @Test on method readFolder but has not been marked @Optional or defined
+in C:\Users\Madhu Veeranna\AppData\Local\Temp\testng-eclipse--92467821\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:569)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1308)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1036)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1126)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
 	at org.testng.TestRunner.privateRun(TestRunner.java:744)
@@ -123,17 +102,16 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1037955032", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1037955032'><pre>org.testng.SkipException: User has marked this record not to run
-	at com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords.testLogin(TC004_VerifyLoginWithDiffferentRecords.java:34)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1234776885", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1234776885'><pre>org.testng.TestNGException: 
+Parameter &apos;folderPath&apos; is required by @Test on method readFolder but has not been marked @Optional or defined
+in C:\Users\Madhu Veeranna\AppData\Local\Temp\testng-eclipse--92467821\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:569)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1308)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1036)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1126)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
 	at org.testng.TestRunner.privateRun(TestRunner.java:744)
@@ -153,7 +131,7 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
 </pre></div></td>
 <td>0</td>
-<td>com.rda.automation.testAutomation.homepage.TC004_VerifyLoginWithDiffferentRecords@59494225</td></tr>
+<td>com.rda.automation.testAutomation.excelReader.Exp@68c4039c</td></tr>
 </table><p>
 </body>
 </html>
