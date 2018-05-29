@@ -1203,3 +1203,383 @@
 2018-04-18 22:37:11 INFO  JabongRegistrationPage:89 - Selected male option and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: male]
 2018-04-18 22:37:11 INFO  JabongRegistrationPage:91 - Clicked on signUp button and object is:-[[ChromeDriver: chrome on XP (5f6f9429af0b01b1f0eac54fc4867500)] -> id: btn-signup]
 2018-04-18 22:37:12 INFO  TC002_VerifyJabongRegistration:40 -  ======== Finished VerifyRegistration with valid credentials ========
+2018-05-25 16:36:59 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-25 16:36:59 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:37:02 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:37:58 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-25 16:37:58 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:37:58 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:37:58 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-25 16:38:00 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-25 16:38:00 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:38:00 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-25 16:38:00 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-25 16:38:00 INFO  WebEventListner:77 - Trying to find Element By : By.id: email_create
+2018-05-25 16:38:00 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-25 16:38:00 INFO  WebEventListner:77 - Trying to find Element By : By.id: email_create
+2018-05-25 16:38:00 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email_create]
+2018-05-25 16:38:01 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email_create]
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-25 16:38:01 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna03aa@gmail.com and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email_create]
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: SubmitCreate
+2018-05-25 16:38:01 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-25 16:38:01 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: SubmitCreate]
+2018-05-25 16:38:01 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: SubmitCreate]
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: SubmitCreate
+2018-05-25 16:38:01 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-25 16:38:01 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: SubmitCreate]
+2018-05-25 16:38:01 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_gender1]
+2018-05-25 16:38:02 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_gender1]
+2018-05-25 16:38:02 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-25 16:38:02 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_gender1]
+2018-05-25 16:38:02 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_firstname
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-25 16:38:02 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_firstname]
+2018-05-25 16:38:02 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_firstname]
+2018-05-25 16:38:02 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_firstname
+2018-05-25 16:38:02 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_firstname
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-25 16:38:03 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_firstname]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_lastname]
+2018-05-25 16:38:03 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_lastname]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-25 16:38:03 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: customer_lastname]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email]
+2018-05-25 16:38:03 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: email
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: email
+2018-05-25 16:38:03 INFO  AutomationPractiseRegistrationPage:137 - Entered email address is:- madhuveeranna03aa@gmail.com and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: email]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: passwd
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: passwd
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: passwd
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: passwd
+2018-05-25 16:38:03 INFO  AutomationPractiseRegistrationPage:139 - Entered password is:- M@dhu9093 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: passwd]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: .//option[@value = "11"]
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.xpath: .//option[@value = "11"]
+2018-05-25 16:38:03 INFO  WebEventListner:86 - Trying to click on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: days]] -> xpath: .//option[@value = "11"]]
+2018-05-25 16:38:03 INFO  WebEventListner:91 - Clicked on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: days]] -> xpath: .//option[@value = "11"]]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: days
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: days
+2018-05-25 16:38:03 INFO  AutomationPractiseRegistrationPage:142 - Entered day is:- 11 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: days]
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: months
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: months
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: months
+2018-05-25 16:38:03 INFO  WebEventListner:81 - Found Element By : By.id: months
+2018-05-25 16:38:03 INFO  WebEventListner:77 - Trying to find Element By : By.id: months
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: months
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: .//option[@value = "10"]
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.xpath: .//option[@value = "10"]
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: months]] -> xpath: .//option[@value = "10"]]
+2018-05-25 16:38:04 INFO  WebEventListner:91 - Clicked on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: months]] -> xpath: .//option[@value = "10"]]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: months
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: months
+2018-05-25 16:38:04 INFO  AutomationPractiseRegistrationPage:145 - Entered month is:- 10 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: months]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: .//option[@value = "1993"]
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.xpath: .//option[@value = "1993"]
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: years]] -> xpath: .//option[@value = "1993"]]
+2018-05-25 16:38:04 INFO  WebEventListner:91 - Clicked on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: years]] -> xpath: .//option[@value = "1993"]]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: years
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: years
+2018-05-25 16:38:04 INFO  AutomationPractiseRegistrationPage:148 - Entered month is:- 1993 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: years]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: company
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: company
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: company]
+2018-05-25 16:38:04 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: company]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: company
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: company
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: company
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: company
+2018-05-25 16:38:04 INFO  AutomationPractiseRegistrationPage:151 - Clicked on company name and entered information is RDA Labs india PVT LTD and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: company]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address1
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address1
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address1]
+2018-05-25 16:38:04 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address1]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address1
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address1
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address1
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address1
+2018-05-25 16:38:04 INFO  AutomationPractiseRegistrationPage:154 - Clicked on company name and entered information is #117 1st main road 4th cross and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address1]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address2
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address2
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address2]
+2018-05-25 16:38:04 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address2]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address2
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address2
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: address2
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: address2
+2018-05-25 16:38:04 INFO  AutomationPractiseRegistrationPage:157 - Clicked on company name and entered information is Vijaylakshmi layout Bagalgunte and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: address2]
+2018-05-25 16:38:04 INFO  WebEventListner:77 - Trying to find Element By : By.id: city
+2018-05-25 16:38:04 INFO  WebEventListner:81 - Found Element By : By.id: city
+2018-05-25 16:38:04 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: city]
+2018-05-25 16:38:05 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: city]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: city
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: city
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: city
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: city
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:160 - Clicked on company name and entered information is Bangalore and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: city]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: .//option[normalize-space(.) = "Indiana"]
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.xpath: .//option[normalize-space(.) = "Indiana"]
+2018-05-25 16:38:05 INFO  WebEventListner:86 - Trying to click on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_state]] -> xpath: .//option[normalize-space(.) = "Indiana"]]
+2018-05-25 16:38:05 INFO  WebEventListner:91 - Clicked on: [[[[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_state]] -> xpath: .//option[normalize-space(.) = "Indiana"]]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_state
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:163 - Clicked on state and passed infomration is Indiana and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_state]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: postcode]
+2018-05-25 16:38:05 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: postcode]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: postcode
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:166 - Clicked on postal code and passed infomration is 56007 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: postcode]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: .//option[normalize-space(.) = "United States"]
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.xpath: .//option[normalize-space(.) = "United States"]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: id_country
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:169 - Clicked on Country and passed infomration is United States and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: id_country]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: other
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: other
+2018-05-25 16:38:05 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: other]
+2018-05-25 16:38:05 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: other]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: other
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: other
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: other
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: other
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:172 - Clicked on Additional Info and passed infomration is I am working as Sr Associate Engineer in the QA Department and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: other]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone
+2018-05-25 16:38:05 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: phone]
+2018-05-25 16:38:05 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: phone]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:175 - Clicked on home phone and passed infomration is 9035832317 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: phone]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  WebEventListner:81 - Found Element By : By.id: phone_mobile
+2018-05-25 16:38:05 INFO  AutomationPractiseRegistrationPage:178 - Clicked on moble phone and passed infomration is 9035832317 and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: phone_mobile]
+2018-05-25 16:38:05 INFO  WebEventListner:77 - Trying to find Element By : By.id: alias
+2018-05-25 16:38:06 INFO  WebEventListner:81 - Found Element By : By.id: alias
+2018-05-25 16:38:06 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: alias]
+2018-05-25 16:38:06 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: alias]
+2018-05-25 16:38:06 INFO  WebEventListner:77 - Trying to find Element By : By.id: alias
+2018-05-25 16:38:06 INFO  WebEventListner:81 - Found Element By : By.id: alias
+2018-05-25 16:38:06 INFO  WebEventListner:77 - Trying to find Element By : By.id: alias
+2018-05-25 16:38:06 INFO  WebEventListner:81 - Found Element By : By.id: alias
+2018-05-25 16:38:06 INFO  AutomationPractiseRegistrationPage:181 - Clicked on Alias and passed infomration is Maddy and object is [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> id: alias]
+2018-05-25 16:38:06 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: //*[@id="submitAccount"]/span
+2018-05-25 16:38:06 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="submitAccount"]/span
+2018-05-25 16:38:06 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> xpath: //*[@id="submitAccount"]/span]
+2018-05-25 16:38:07 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (39880fcb575e06769c211459c14c6b20)] -> xpath: //*[@id="submitAccount"]/span]
+2018-05-25 16:38:07 INFO  WebEventListner:77 - Trying to find Element By : By.xpath: //*[@id="submitAccount"]/span
+2018-05-28 16:56:51 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 16:56:51 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-28 16:56:51 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:56:53 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-28 16:56:53 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:56:53 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: email_create]
+2018-05-28 16:56:53 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: email_create]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:56:53 INFO  WebEventListner:95 - before the element value gets changed : [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: email_create]
+2018-05-28 16:56:53 INFO  WebEventListner:100 - After the element value gets changed : [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: email_create]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:56:53 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna03aa@gmail.com and object is [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: email_create]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-28 16:56:53 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: SubmitCreate]
+2018-05-28 16:56:53 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: SubmitCreate]
+2018-05-28 16:56:53 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-28 16:56:53 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (4dd87b7c2c9cfd3885b94adb3e7d9006)] -> id: SubmitCreate]
+2018-05-28 16:56:59 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-28 16:56:59 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 16:56:59 INFO  WebEventListner:115 - Exception occured : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'WIN031-MADHU', ip: '10.0.1.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\MADHUV~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}
+Session ID: 4dd87b7c2c9cfd3885b94adb3e7d9006
+*** Element info: {Using=xpath, value=//*[@id="header"]/div[2]/div/div/nav/div[1]/a}
+2018-05-28 16:56:59 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 16:56:59 INFO  WebEventListner:115 - Exception occured : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'WIN031-MADHU', ip: '10.0.1.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\MADHUV~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}
+Session ID: 4dd87b7c2c9cfd3885b94adb3e7d9006
+*** Element info: {Using=xpath, value=//*[@id="header"]/div[2]/div/div/nav/div[1]/a}
+2018-05-28 16:56:59 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 16:56:59 INFO  WebEventListner:115 - Exception occured : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'WIN031-MADHU', ip: '10.0.1.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\MADHUV~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}
+Session ID: 4dd87b7c2c9cfd3885b94adb3e7d9006
+*** Element info: {Using=xpath, value=//*[@id="header"]/div[2]/div/div/nav/div[1]/a}
+2018-05-28 16:58:56 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 16:58:56 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-28 16:58:56 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:58:58 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:58:58 INFO  WebEventListner:81 - Found Element By : By.xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+2018-05-28 16:58:58 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 16:58:58 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:58:58 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:58:58 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:58:58 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: email_create]
+2018-05-28 16:58:59 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: email_create]
+2018-05-28 16:58:59 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:58:59 INFO  WebEventListner:95 - before the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: email_create]
+2018-05-28 16:58:59 INFO  WebEventListner:100 - After the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: email_create]
+2018-05-28 16:58:59 INFO  WebEventListner:81 - Found Element By : By.id: email_create
+2018-05-28 16:58:59 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527506926405@gmail.com and object is [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: email_create]
+2018-05-28 16:58:59 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-28 16:58:59 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: SubmitCreate]
+2018-05-28 16:58:59 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: SubmitCreate]
+2018-05-28 16:58:59 INFO  WebEventListner:81 - Found Element By : By.id: SubmitCreate
+2018-05-28 16:58:59 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: SubmitCreate]
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-28 16:59:00 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: id_gender1]
+2018-05-28 16:59:00 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: id_gender1]
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: id_gender1
+2018-05-28 16:59:00 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: id_gender1]
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-28 16:59:00 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_firstname]
+2018-05-28 16:59:00 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_firstname]
+2018-05-28 16:59:00 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-28 16:59:00 INFO  WebEventListner:95 - before the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_firstname]
+2018-05-28 16:59:01 INFO  WebEventListner:100 - After the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_firstname]
+2018-05-28 16:59:01 INFO  WebEventListner:81 - Found Element By : By.id: customer_firstname
+2018-05-28 16:59:01 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_firstname]
+2018-05-28 16:59:01 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-28 16:59:01 INFO  WebEventListner:86 - Trying to click on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_lastname]
+2018-05-28 16:59:01 INFO  WebEventListner:91 - Clicked on: [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_lastname]
+2018-05-28 16:59:01 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-28 16:59:01 INFO  WebEventListner:95 - before the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_lastname]
+2018-05-28 16:59:01 INFO  WebEventListner:100 - After the element value gets changed : [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_lastname]
+2018-05-28 16:59:01 INFO  WebEventListner:81 - Found Element By : By.id: customer_lastname
+2018-05-28 16:59:01 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (50122292b94fd60c3181cf09eb56134c)] -> id: customer_lastname]
+2018-05-28 17:00:10 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 17:00:11 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 17:00:12 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527507000602@gmail.com and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: email_create]
+2018-05-28 17:00:12 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: SubmitCreate]
+2018-05-28 17:00:13 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: id_gender1]
+2018-05-28 17:00:14 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_firstname]
+2018-05-28 17:00:14 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_lastname]
+2018-05-28 17:01:14 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 17:01:16 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 17:01:16 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527507000602@gmail.com and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: email_create]
+2018-05-28 17:01:16 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: SubmitCreate]
+2018-05-28 17:01:17 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: id_gender1]
+2018-05-28 17:01:18 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_firstname]
+2018-05-28 17:01:18 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_lastname]
+2018-05-28 17:02:18 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 17:02:20 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 17:02:21 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527507000602@gmail.com and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: email_create]
+2018-05-28 17:02:21 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: SubmitCreate]
+2018-05-28 17:02:22 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: id_gender1]
+2018-05-28 17:02:22 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_firstname]
+2018-05-28 17:02:23 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_lastname]
+2018-05-28 17:03:23 INFO  TC003_VerifyRegistration:40 -  ======== Starting userRegistration ======== 
+2018-05-28 17:03:25 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-28 17:03:25 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527507000602@gmail.com and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: email_create]
+2018-05-28 17:03:25 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: SubmitCreate]
+2018-05-28 17:03:27 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: id_gender1]
+2018-05-28 17:03:27 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_firstname]
+2018-05-28 17:03:27 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (19ca9727ddf8e0656715f726b407a573)] -> id: customer_lastname]
+2018-05-29 10:11:14 INFO  TC003_VerifyRegistration:42 -  ======== Starting userRegistration ======== 
+2018-05-29 10:11:15 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-29 10:11:16 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527568862049@gmail.com and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: email_create]
+2018-05-29 10:11:16 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: SubmitCreate]
+2018-05-29 10:11:17 INFO  AutomationPractiseRegistrationPage:127 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: id_gender1]
+2018-05-29 10:11:17 INFO  AutomationPractiseRegistrationPage:130 - Entered first name is:- Madhu and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: customer_firstname]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:133 - Entered last name is:- veeranna and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: customer_lastname]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:137 - Entered email address is:- madhuveeranna1527568862049@gmail.com and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: email]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:139 - Entered password is:- M@dhu9093 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: passwd]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:142 - Entered day is:- 11 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: days]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:145 - Entered month is:- 10 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: months]
+2018-05-29 10:11:18 INFO  AutomationPractiseRegistrationPage:148 - Entered month is:- 1993 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: years]
+2018-05-29 10:11:19 INFO  AutomationPractiseRegistrationPage:151 - Clicked on company name and entered information is RDA Labs india PVT LTD and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: company]
+2018-05-29 10:11:19 INFO  AutomationPractiseRegistrationPage:154 - Clicked on company name and entered information is #117 1st main road 4th cross and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: address1]
+2018-05-29 10:11:19 INFO  AutomationPractiseRegistrationPage:157 - Clicked on company name and entered information is Vijaylakshmi layout Bagalgunte and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: address2]
+2018-05-29 10:11:19 INFO  AutomationPractiseRegistrationPage:160 - Clicked on company name and entered information is Bangalore and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: city]
+2018-05-29 10:11:19 INFO  AutomationPractiseRegistrationPage:163 - Clicked on state and passed infomration is Indiana and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: id_state]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:166 - Clicked on postal code and passed infomration is 56007 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: postcode]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:169 - Clicked on Country and passed infomration is United States and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: id_country]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:172 - Clicked on Additional Info and passed infomration is I am working as Sr Associate Engineer in the QA Department and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: other]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:175 - Clicked on home phone and passed infomration is 9035832317 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: phone]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:178 - Clicked on moble phone and passed infomration is 9035832317 and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: phone_mobile]
+2018-05-29 10:11:20 INFO  AutomationPractiseRegistrationPage:181 - Clicked on Alias and passed infomration is Maddy and object is [[ChromeDriver: chrome on XP (8537534ce9546dc02460b816a27026be)] -> id: alias]
+2018-05-29 10:12:31 INFO  TC003_VerifyRegistration:42 -  ======== Starting userRegistration ======== 
+2018-05-29 10:12:33 INFO  AutomationPractiseRegistrationPage:109 - Clicked on sign in and object is [[ChromeDriver: chrome on XP (873312f619cf64c186146b2e6caa675d)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]
+2018-05-29 10:12:37 INFO  AutomationPractiseRegistrationPage:114 - Entered email address is:- madhuveeranna1527568942601@gmail.com and object is [[ChromeDriver: chrome on XP (873312f619cf64c186146b2e6caa675d)] -> id: email_create]
+2018-05-29 10:12:37 INFO  AutomationPractiseRegistrationPage:124 - Clicked on Create Account button and object is[[ChromeDriver: chrome on XP (873312f619cf64c186146b2e6caa675d)] -> id: SubmitCreate]

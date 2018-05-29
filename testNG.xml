@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Regression Suite">
+<suite name="Regression Suite" preserve-order="true" parallel="false" thread-count="1">
 <listeners>
-<listener class-name="com.rda.automation.testAutomation.customelistner.Listener"></listener>
+<!-- <listener class-name="com.rda.automation.testAutomation.customlistner.Listener"></listener> -->
+ <listener class-name="com.rda.automation.testAutomation.customlistner.RetryListener"></listener>
+ 
 </listeners>
 <test name="TC002_VerifyRegistration">
 <classes>
-<class name="com.rda.automation.testAutomation.homepage.TC002_VerifyJabongRegistration"></class>
+<class name="com.rda.automation.testAutomation.homepage.TC003_VerifyRegistration"></class>
 </classes>
 </test>
 </suite>

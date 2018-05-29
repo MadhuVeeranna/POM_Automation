@@ -1,5 +1,7 @@
 package com.rda.automation.testAutomation.homepage;
 
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
@@ -24,7 +26,7 @@ public static final Logger log = Logger.getLogger(TC004_VerifyLoginWithDiffferen
 	}
 	
 	@BeforeTest
-	public void setUp(){
+	public void setUp() throws IOException{
 		init();
 	}	
 	

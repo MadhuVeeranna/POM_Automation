@@ -2,17 +2,17 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
   <listeners>
-    <listener class-name="com.rda.automation.testAutomation.customelistner.Listener"/>
+    <listener class-name="com.rda.automation.testAutomation.customlistner.RetryListener"/>
   </listeners>
   <test name="TC002_VerifyRegistration(failed)">
     <classes>
-      <class name="com.rda.automation.testAutomation.homepage.TC002_VerifyJabongRegistration">
+      <class name="com.rda.automation.testAutomation.homepage.TC003_VerifyRegistration">
         <methods>
-          <include name="verifyJabongRegistration"/>
-          <include name="setUp"/>
           <include name="endTest"/>
+          <include name="userRegistration"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.rda.automation.testAutomation.homepage.TC002_VerifyJabongRegistration -->
+      </class> <!-- com.rda.automation.testAutomation.homepage.TC003_VerifyRegistration -->
     </classes>
   </test> <!-- TC002_VerifyRegistration(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->

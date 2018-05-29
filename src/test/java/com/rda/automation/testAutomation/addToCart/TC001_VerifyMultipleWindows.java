@@ -1,5 +1,6 @@
 package com.rda.automation.testAutomation.addToCart;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -18,7 +19,7 @@ public final class TC001_VerifyMultipleWindows extends TestBase{
 	List<String> windowIds = new ArrayList<String>();
 	
 	@BeforeClass
-	public void setUp(){
+	public void setUp() throws IOException{
 		init();
 	}
 	

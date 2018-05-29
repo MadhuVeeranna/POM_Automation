@@ -1,5 +1,7 @@
 package com.rda.automation.testAutomation.homepage;
 
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
@@ -24,7 +26,7 @@ public class TC002_VerifyJabongRegistration extends TestBase{
 	//String mobileNumber = "9222122319";
 	
 	@BeforeTest
-	public void setUp(){
+	public void setUp() throws IOException{
 		init();
 	}
 	

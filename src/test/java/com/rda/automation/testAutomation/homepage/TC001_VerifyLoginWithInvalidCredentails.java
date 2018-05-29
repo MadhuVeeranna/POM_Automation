@@ -1,5 +1,7 @@
 package com.rda.automation.testAutomation.homepage;
 
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -20,7 +22,7 @@ public class TC001_VerifyLoginWithInvalidCredentails extends TestBase{
 	//AutomationPractiseLoginPage automationpractiseloginpage = PageFactory.initElements(driver, AutomationPractiseLoginPage.class);/* Initializing page factory elements*/
 	
 	@BeforeTest
-	public void setUp(){
+	public void setUp() throws IOException{
 		init();
 	}
 	

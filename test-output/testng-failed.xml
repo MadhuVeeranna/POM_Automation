@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [UploadImage]">
-  <test name="UploadImage(failed)">
-    <parameter name="browserName" value="Chrome"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.rda.automation.testAutomation.customlistner.RetryListener"/>
+  </listeners>
+  <test name="TC002_VerifyRegistration(failed)">
     <classes>
-      <class name="com.rda.automation.testAutomation.excelReader.Exp">
+      <class name="com.rda.automation.testAutomation.homepage.TC003_VerifyRegistration">
         <methods>
-          <include name="readFolder" invocation-numbers="0">
-            <parameter name="folderPath" value="C:\\Users\\Madhu Veeranna\\Downloads\\Health\\reports.csv"/>
-            <parameter name="category" value="madhu"/>
-          </include> <!-- readFolder -->
+          <include name="endTest"/>
+          <include name="userRegistration"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.rda.automation.testAutomation.excelReader.Exp -->
+      </class> <!-- com.rda.automation.testAutomation.homepage.TC003_VerifyRegistration -->
     </classes>
-  </test> <!-- UploadImage(failed) -->
-</suite> <!-- Failed suite [UploadImage] -->
+  </test> <!-- TC002_VerifyRegistration(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

@@ -1,4 +1,4 @@
-package com.rda.automation.testAutomation.customelistner;
+package com.rda.automation.testAutomation.customlistner;
 
 import java.io.File;
 import java.io.IOException;

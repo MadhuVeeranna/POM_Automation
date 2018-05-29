@@ -1,10 +1,13 @@
 package com.rda.automation.testAutomation.testBase;
 
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Iterator;
+import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import org.apache.commons.io.FileUtils;
@@ -15,8 +18,10 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.Reporter;
 
+import com.rda.automation.testAutomation.customlistner.WebEventListner;
 import com.rda.automation.testAutomation.excelReader.Excel_Reader;
 
 public class TestBase {
@@ -24,15 +29,29 @@ public class TestBase {
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
 	
 	//Will declare the webdriver as Static, because we want this driver to be available across the project hence static.
-	public static WebDriver driver;
+	//public static WebDriver driver;
+	public WebDriver dr;
+	public EventFiringWebDriver driver;
+	public WebEventListner eventListner;
 	//String url = "http://automationpractice.com/index.php";
-	String url = "https://www.jabong.com/";
-	String browser = "chrome";
+	//String url = "https://www.jabong.com/";
+	//String browser = "chrome";
 	Excel_Reader excel;
+	Properties OR;
 	
-	public void init(){
-		selectBrowser(browser);
-		getUrl(url);
+	public void loadData() throws IOException{
+		OR = new Properties();
+		File file = new File(System.getProperty("user.dir")+"\\src\\main\\java\\com\\rda\\automation\\testAutomation\\config\\config.properties");
+		//To read the data from file
+		FileInputStream f = new FileInputStream(file);
+		OR.load(f);	
+	}
+	
+	
+	public void init() throws IOException{
+		loadData();
+		selectBrowser(OR.getProperty("browser"));
+		getUrl(OR.getProperty("url"));
 		String log4jConfigPath = "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigPath);
 	}
@@ -44,7 +63,11 @@ public class TestBase {
 			 //For Mac
 			 //System.setProperty("Webdriver.firefox.marionette", System.getProperty("user.dir") + "/drivers/geckodriver");		 
 			 log.info("Creating object of "+browser);
-			 driver = new FirefoxDriver();
+			 dr = new FirefoxDriver();
+			 driver = new EventFiringWebDriver(dr);
+			 eventListner = new WebEventListner();
+			 //Registering the WebEventListner in EventFiringWebDriver
+			 //driver.register(eventListner);
 		 }
 		 else if(browser.equalsIgnoreCase("chrome")){
 			 System.out.println(System.getProperty("user.dir"));
@@ -53,7 +76,12 @@ public class TestBase {
 			 //For Mac
 			 //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/drivers/chromedriver");
 			 log.info("Creating object of "+browser);
-			 driver = new ChromeDriver();
+			 dr = new ChromeDriver();
+			 //To Perform operations on WebEventListner
+			 driver = new EventFiringWebDriver(dr);
+			 eventListner = new WebEventListner();
+			 //Registering the WebEventListner in EventFiringWebDriver
+			 //driver.register(eventListner);
 		 }
 	 }
 	 

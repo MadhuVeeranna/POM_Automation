@@ -1,5 +1,7 @@
 package com.rda.automation.testAutomation.homepage;
 
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
@@ -11,7 +13,7 @@ public class TC003_VerifyRegistration extends TestBase{
 	
 	public static final Logger log = Logger.getLogger(TC003_VerifyRegistration.class.getName());
 	AutomationPractiseRegistrationPage automationpractiseregistrationpage;
-	String emailAddress = "madhuveeranna03aa@gmail.com";
+	String emailAddress = "madhuveeranna"+System.currentTimeMillis()+"@gmail.com";
 	String firstName = "Madhu";
 	String lastName = "veeranna";
 	String password = "M@dhu9093";
@@ -22,7 +24,7 @@ public class TC003_VerifyRegistration extends TestBase{
 	String address1 = "#117 1st main road 4th cross";
 	String address2 = "Vijaylakshmi layout Bagalgunte";
 	String city = "Bangalore";
-	String state = "Indiana";
+	String state = "Indian";
 	String zipCode = "56007";
 	String country = "United States";
 	String additionalInfo = "I am working as Sr Associate Engineer in the QA Department";
@@ -31,7 +33,7 @@ public class TC003_VerifyRegistration extends TestBase{
 	String alias = "Maddy";
 	
 	@BeforeTest
-	public void setUp(){
+	public void setUp() throws IOException{
 		init();
 	}
 	
